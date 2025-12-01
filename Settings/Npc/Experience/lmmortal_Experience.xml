@@ -1,0 +1,29 @@
+﻿<Experiences><List>
+	<Experience Name="xianmen">
+		<DisplayName>入仙门</DisplayName>
+		<Desc>
+			修真法门
+			[size=10]解锁功法：[color=#D06508]《修真法门》[/size]
+			[size=10]初始[color=#D06508]弟子栏位[/color]增加2！[/size]
+			[size=10]初始[color=#D06508]肉干[/color]增加1200！[/size]
+			[size=10]初始[color=#D06508]面饼[/color]增加1200！[/size]
+			[size=10]初始[color=#D06508]各属性材料分别[/color]增加100！[/size]
+		</Desc>
+		<Point>5</Point>
+		<NpcSlot>2</NpcSlot>
+		<Gongs>
+			<li>lmmortal_Gong</li>
+		</Gongs>
+		<Items>
+			<li Name="Item_Jerky" Count="1200"/>
+			<li Name="Item_Cake" Count="1200"/>
+			<li Name="Item_IronBlock" Count="100"/>
+			<li Name="Item_SilverBlock" Count="100"/>
+			<li Name="Item_CopperBlock1" Count="100"/>
+			<li Name="Item_SilverBlock1" Count="100"/>
+			<li Name="Item_JadeBlock" Count="100"/>
+			<li Name="Item_ParasolWoodBlock" Count="100"/>
+			<li Name="Item_CopperBlock" Count="100"/>
+		</Items>
+	</Experience>
+</List></Experiences>

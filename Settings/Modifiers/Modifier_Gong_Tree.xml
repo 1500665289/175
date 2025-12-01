@@ -1,0 +1,148 @@
+<ModifierDefs><List>
+    <Modifier Name="yinlishu_Buff" Type="Normal">
+        <DisplayName>引力术</DisplayName>
+        <MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+        <Properties>
+            <li Name="SkillAbility_Fabao" AddP="10"/>
+        </Properties>
+    </Modifier>
+    <Modifier Name="jijing_Buff" Type="Normal">
+        <DisplayName>极境</DisplayName>
+        <MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+        <Properties>
+            <li Name="NpcFight_SpellPowerAddP" BAddP="20"/>
+            <li Name="SkillAbility_DouFa" AddP="20"/>
+        </Properties>
+    </Modifier>
+    <Modifier Name="sushenjue_buff" Type="Normal">
+		<DisplayName>速神诀</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="MoveSpeed" AddP="30"/>
+			<li Name="WorldMapFlySpeed" AddP="20"/>
+			<li Name="WorldMapFlySpeedAddP" AddP="20"/>
+			<li Name="ExperienceFindSpeedAddV" AddV="0.5"/>
+			<li Name="LeadExperienceAddtion" AddV="10"/>
+			<li Name="NpcFight_BaseDodgeChance" AddV="1"/>
+		</Properties>
+		<Skills>
+			<li Name="Fight" LevelOver="15"/>
+		</Skills>
+	</Modifier>
+    <Modifier Name="xianrenbumieti_Buff" Type="Normal">
+        <DisplayName>仙人不灭体</DisplayName>
+        <MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+        <Properties>
+            <li Name="RecoveryPower" AddV="10"/>
+            <li Name="PainTolerance" AddV="10"/>
+            <li Name="NpcFight_ShieldConversionEquipAdd" AddV="10"/>
+            <li Name="NpcFight_ShieldConversionRateAddP" AddV="10"/>
+            <li Name="NpcFight_ShieldConversionRate" AddV="10"/>
+            <li Name="NpcFight_ShieldResistanceToJin" AddV="10"/>
+            <li Name="NpcFight_ShieldResistanceToMu" AddV="10"/>
+            <li Name="NpcFight_ShieldResistanceToShui" AddV="10"/>
+            <li Name="NpcFight_ShieldResistanceToHuo" AddV="10"/>
+            <li Name="NpcFight_ShieldResistanceToTu" AddV="10"/>
+            <li Name="MaxHp" AddP="100"/>
+        </Properties>
+    </Modifier>
+    <Modifier Name="jitiandao_buff" Type="Normal">
+		<DisplayName>极天道</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="NpcFight_BaseDodgeChance" AddV="88"/>
+            <li Name="NpcFight_BaseHitChance" AddV="88"/>
+            <li Name="NpcFight_FabaoPowerAddP" AddV="88"/>
+            <li Name="NpcFight_SpellPowerAddP" BAddV="88"/>
+		</Properties>
+	</Modifier>
+    <Modifier Name="jididao_buff" Type="Normal">
+		<DisplayName>极地道</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="NpcFight_ShieldConversionRate" AddV="10000"/>
+            <li Name="MaxHp" AddV="88"/>
+            <li Name="PainTolerance" AddV="88"/>
+            <li Name="RecoveryPower" AddV="88"/>
+		</Properties>
+	</Modifier>
+    <Modifier Name="jimingdao_buff" Type="Normal">
+		<DisplayName>极命道</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="MaxAge" AddV="2000000"/>
+            <li Name="NpcLingMaxValue" AddV="100000000"/>
+            <li Name="LingAbsorbSpeed" AddV="200000"/>
+            <li Name="PracticeFoodRecoveryConstant" AddV="2000"/>
+            <li Name="PracticeFoodConsumeConstant" AddV="2000"/>
+		</Properties>
+	</Modifier>
+    <Modifier Name="jijindao_buff" Type="Normal">
+		<DisplayName>极金道</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="NpcFight_ShieldResistanceToJin" AddV="88"/>
+		</Properties>
+	</Modifier>
+    <Modifier Name="jimudao_buff" Type="Normal">
+		<DisplayName>极木道</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="NpcFight_ShieldResistanceToMu" AddV="88"/>
+		</Properties>
+	</Modifier>
+    <Modifier Name="jishuidao_buff" Type="Normal">
+		<DisplayName>极水道</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="NpcFight_ShieldResistanceToShui" AddV="88"/>
+		</Properties>
+	</Modifier>
+    <Modifier Name="jihuodao_buff" Type="Normal">
+		<DisplayName>极火道</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="NpcFight_ShieldResistanceToHuo" AddV="88"/>
+		</Properties>
+	</Modifier>
+    <Modifier Name="jitudao_buff" Type="Normal">
+		<DisplayName>极土道</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="NpcFight_ShieldResistanceToTu" AddV="88"/>
+		</Properties>
+	</Modifier>
+    <Modifier Name="daoguwuxian_buff" Type="Normal">
+		<DisplayName>道古无仙</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="NpcFight_FabaoNum" AddV="6"/>
+		</Properties>
+	</Modifier>
+</List></ModifierDefs>

@@ -1,0 +1,419 @@
+<Gongs><List>
+    <Gong Name="lmmortal_Gong">
+        <DisplayName>修真法门</DisplayName>
+        <Desc>顺为凡，逆则仙，只在心中一念间……修真，到底是修的什么？</Desc>
+        <SelectDesc>人人皆可修仙，可真的能成仙么？</SelectDesc>
+        <FiveBaseNeed>1,1,1,1,1</FiveBaseNeed>
+        <SkillSetName></SkillSetName>
+        <ElementKind>None</ElementKind>
+        <Hide>0</Hide>
+        <Stages>
+            <Stage Name="Stage1" Level="1">
+                <DisplayName>修真第一步</DisplayName>
+                <Desc>从凡人之躯，修至上仙</Desc>
+                <Value>200000</Value>
+                <Necks>
+                    <Neck Location="0.1" Kind="Chance">
+                        <DisplayName>凝气</DisplayName>
+                        <Desc>\n也叫灵动，修真的入门阶段，\n一般没有筑基不能称作真正的修士。</Desc>
+                        <CostTime>0</CostTime>
+                        <SuccessChange>-0.1</SuccessChange>
+                        <FailedChangeAdd>0.1</FailedChangeAdd>
+                        <AddModifier>lm_1_1</AddModifier>
+                    </Neck>
+                    <Neck Location="0.2" Kind="Chance">
+                        <DisplayName>筑基</DisplayName>
+                        <Desc>丹田灵力密度增大，容纳灵力更多，化气成液，\n真正进入修士范围。</Desc>
+                        <CostTime>100</CostTime>
+                        <SuccessChange>-0.1</SuccessChange>
+                        <FailedChangeAdd>0.1</FailedChangeAdd>
+                        <AddModifier>lm_1_2</AddModifier>
+                    </Neck>
+                    <Neck Location="0.3" Kind="Chance">
+                        <DisplayName>金丹</DisplayName>
+                        <Desc>体内灵力固化，凝成金丹。</Desc>
+                        <CostTime>100</CostTime>
+                        <SuccessChange>-0.1</SuccessChange>
+                        <FailedChangeAdd>0.1</FailedChangeAdd>
+                        <AddModifier>lm_1_3</AddModifier>
+                    </Neck>
+                    <Neck Location="0.4" Kind="Chance">
+                        <DisplayName>元婴</DisplayName>
+                        <Desc>体内金丹质变为元婴，具有可瞬移之力（百里）</Desc>
+                        <CostTime>100</CostTime>
+                        <SuccessChange>-0.1</SuccessChange>
+                        <FailedChangeAdd>0.1</FailedChangeAdd>
+                        <AddModifier>lm_1_4</AddModifier>
+                    </Neck>
+                    <Neck Location="0.5" Kind="Chance">
+                        <DisplayName>化神</DisplayName>
+                        <Desc>欲化神，需先化凡，感悟天地，人生， \n以自身的一段感动，产生意境，将自身的一段感动化作攻敌手段， \n化神修士意境之战最为凶险，稍有不慎，道消而陨。
+                        </Desc>
+                        <CostTime>100</CostTime>
+                        <SuccessChange>-0.1</SuccessChange>
+                        <FailedChangeAdd>0.1</FailedChangeAdd>
+                        <AddModifier>lm_1_5</AddModifier>
+                    </Neck>
+                    <Neck Location="0.6" Kind="Chance">
+                        <DisplayName>婴变(仙士)</DisplayName>
+                        <Desc>意境圆满，达到实体化，将体内灵力转化仙力，或吸收仙玉仙力， \n肉身蜕变，元神实质，更为巨大， \n为仙界未崩溃前的最底层仙人，初步具有催动仙宝之力。
+                        </Desc>
+                        <CostTime>100</CostTime>
+                        <SuccessChange>-0.1</SuccessChange>
+                        <FailedChangeAdd>0.1</FailedChangeAdd>
+                        <AddModifier>lm_1_6</AddModifier>
+                    </Neck>
+                    <Neck Location="0.7" Kind="Chance">
+                        <DisplayName>问鼎</DisplayName>
+                        <Desc>意境入体，与元神融合，元神中诞生问鼎之晶， \n由灵力，仙力转化为元力，问鼎成功者，十之存一， \n侥幸成功，为第一步之颠峰.
+                        </Desc>
+                        <CostTime>100</CostTime>
+                        <SuccessChange>-0.1</SuccessChange>
+                        <FailedChangeAdd>0.1</FailedChangeAdd>
+                        <AddModifier>lm_1_7</AddModifier>
+                    </Neck>
+                    <Neck Location="0.8" Kind="Thunder">
+                        <DisplayName>阴虚</DisplayName>
+                        <Desc>可称之为伪第二步，讲究的是元神和意境的变化，初步产生道念。</Desc>
+                        <ThunderValue>1000</ThunderValue>
+                        <NeckCountdown>5000</NeckCountdown>
+                        <AddModifier>lm_1_8</AddModifier>
+                    </Neck>
+                    <Neck Location="1" Kind="Thunder">
+                        <DisplayName>阳实</DisplayName>
+                        <Desc>可称之为伪第二步，讲究的是元神和意境的变化，初步产生道念。</Desc>
+                        <ThunderValue>1000</ThunderValue>
+                        <NeckCountdown>5000</NeckCountdown>
+                        <AddModifier>lm_1_9</AddModifier>
+                    </Neck>
+                </Necks>
+            </Stage>
+            <Stage Name="Stage2" Level="4">
+                <DisplayName>修真第二步</DisplayName>
+                <Desc>成仙君</Desc>
+                <Value>600000</Value>
+                <Necks>
+                    <Neck Location="0.3" Kind="Chance">
+                        <DisplayName>窥涅(天仙)</DisplayName>
+                        <Desc>\n窥涅\n失败需要重新突破。</Desc>
+                        <CostTime>100</CostTime>
+                        <SuccessChange>-0.2</SuccessChange>
+                        <AddModifier>lm_2_1</AddModifier>
+
+                    </Neck>
+                    <Neck Location="0.6" Kind="Chance">
+                        <DisplayName>净涅(仙王)</DisplayName>
+                        <Desc>\n阴虚\n失败需要重新领悟。</Desc>
+                        <CostTime>100</CostTime>
+                        <SuccessChange>-0.2</SuccessChange>
+                        <AddModifier>lm_2_2</AddModifier>
+                    </Neck>
+                    <Neck Location="1" Kind="Gold">
+                        <DisplayName>碎涅(仙君)</DisplayName>
+                        <Desc>\n碎涅\n失败需要重新领悟。</Desc>
+                        <CostTime>100</CostTime>
+                        <SuccessChange>-0.2</SuccessChange>
+                        <AddModifier>lm_2_3</AddModifier>
+                    </Neck>
+                </Necks>
+            </Stage>
+
+            <Stage Name="Stage3" Level="5">
+                <DisplayName>修真第二步(天人五衰劫)</DisplayName>
+                <Desc>破仙君进仙空涅</Desc>
+                <Value>1000000</Value>
+                <Necks>
+                    <Neck Location="0.2" Kind="Chance">
+                        <DisplayName>第一衰</DisplayName>
+                        <Desc>\n过了实力强10倍没过就死。</Desc>
+                        <CostTime>200</CostTime>
+                        <SuccessChange>-0.3</SuccessChange>
+                        <AddModifier>lm_3_1</AddModifier>
+                        <Damages>
+							<li PartName="TheWholeBody" Name="Boom" Rate="3"/>
+						</Damages>
+                    </Neck>
+                    <Neck Location="0.4" Kind="Chance">
+                        <DisplayName>第二衰</DisplayName>
+                        <Desc>\n过了实力强10倍没过就死。</Desc>
+                        <CostTime>200</CostTime>
+                        <SuccessChange>-0.3</SuccessChange>
+                        <AddModifier>lm_3_2</AddModifier>
+                        <Damages>
+							<li PartName="TheWholeBody" Name="Boom" Rate="3"/>
+						</Damages>
+                    </Neck>
+                    <Neck Location="0.6" Kind="Chance">
+                        <DisplayName>第三衰</DisplayName>
+                        <Desc>\n过了实力强10倍没过就死。</Desc>
+                        <CostTime>100</CostTime>
+                        <SuccessChange>-0.3</SuccessChange>
+                        <AddModifier>lm_3_3</AddModifier>
+                        <Damages>
+							<li PartName="TheWholeBody" Name="Boom" Rate="3"/>
+						</Damages>
+                    </Neck>
+                    <Neck Location="0.8" Kind="Chance">
+                        <DisplayName>第四衰</DisplayName>
+                        <Desc>\n过了实力强10倍没过就死。</Desc>
+                        <CostTime>100</CostTime>
+                        <SuccessChange>-0.3</SuccessChange>
+                        <AddModifier>lm_3_4</AddModifier>
+                        <Damages>
+							<li PartName="TheWholeBody" Name="Boom" Rate="3"/>
+						</Damages>
+                    </Neck>
+                    <Neck Location="1" Kind="Chance">
+                        <DisplayName>第五衰</DisplayName>
+                        <Desc>\n过了实力强10倍没过就死。</Desc>
+                        <CostTime>100</CostTime>
+                        <SuccessChange>-0.3</SuccessChange>
+                        <AddModifier>lm_3_5</AddModifier>
+                        <Damages>
+							<li PartName="TheWholeBody" Name="Boom" Rate="3"/>
+						</Damages>
+                    </Neck>
+                </Necks>
+            </Stage>
+
+            <Stage Name="Stage4" Level="7">
+                <DisplayName>修真第三步(仙帝)</DisplayName>
+                <Desc>成仙帝</Desc>
+                <Value>3000000</Value>
+                <Necks>
+                    <Neck Location="0.3" Kind="Chance">
+                        <DisplayName>空涅</DisplayName>
+                        <Desc>\n空涅\n失败需要重新突破。</Desc>
+                        <CostTime>500</CostTime>
+                        <SuccessChange>-0.5</SuccessChange>
+                        <AddModifier>lm_4_1</AddModifier>
+                    </Neck>
+                    <Neck Location="0.6" Kind="Chance">
+                        <DisplayName>空灵</DisplayName>
+                        <Desc>\n空灵\n失败需要重新领悟。</Desc>
+                        <CostTime>500</CostTime>
+                        <SuccessChange>-0.5</SuccessChange>
+                        <AddModifier>lm_4_2</AddModifier>
+                    </Neck>
+                    <Neck Location="1" Kind="Chance">
+                        <DisplayName>空玄</DisplayName>
+                        <Desc>\n空玄\n失败需要重新突破。</Desc>
+                        <CostTime>500</CostTime>
+                        <SuccessChange>-0.5</SuccessChange>
+                        <AddModifier>lm_4_3</AddModifier>
+                    </Neck>
+                </Necks>
+            </Stage>
+            <Stage Name="Stage5" Level="8">
+                <DisplayName>修真第三步(空劫)</DisplayName>
+                <Desc>破仙帝成大尊</Desc>
+                <Value>6000000</Value>
+                <Necks>
+                    <Neck Location="0.1" Kind="Thunder">
+                        <DisplayName>第一次玄劫</DisplayName>
+                        <Desc>\n天劫</Desc>
+                        <ThunderValue>10000000</ThunderValue>
+                        <NeckCountdown>2000</NeckCountdown>
+                        <AddModifier>lm_5_1</AddModifier>
+                    </Neck>
+                    <Neck Location="0.2" Kind="Thunder">
+                        <DisplayName>第二次玄劫</DisplayName>
+                        <Desc>\n天劫</Desc>
+                        <ThunderValue>20000000</ThunderValue>
+                        <NeckCountdown>2000</NeckCountdown>
+                        <AddModifier>lm_5_2</AddModifier>
+                    </Neck>
+                    <Neck Location="0.3" Kind="Thunder">
+                        <DisplayName>第三次玄劫</DisplayName>
+                        <Desc>\n天劫</Desc>
+                        <CostTime>100</CostTime>
+                        <ThunderValue>30000000</ThunderValue>
+                        <NeckCountdown>2000</NeckCountdown>
+                        <AddModifier>lm_5_3</AddModifier>
+                    </Neck>
+                    <Neck Location="0.4" Kind="Thunder">
+                        <DisplayName>第四次玄劫</DisplayName>
+                        <Desc>\n天劫</Desc>
+                        <CostTime>100</CostTime>
+                        <ThunderValue>40000000</ThunderValue>
+                        <NeckCountdown>2000</NeckCountdown>
+                        <AddModifier>lm_5_4</AddModifier>
+                    </Neck>
+                    <Neck Location="0.5" Kind="Thunder">
+                        <DisplayName>第五次玄劫</DisplayName>
+                        <Desc>\n天劫</Desc>
+                        <CostTime>100</CostTime>
+                        <ThunderValue>50000000</ThunderValue>
+                        <NeckCountdown>2000</NeckCountdown>
+                        <AddModifier>lm_5_5</AddModifier>
+                    </Neck>
+                    <Neck Location="0.6" Kind="Thunder">
+                        <DisplayName>第六次玄劫</DisplayName>
+                        <Desc>\n天劫</Desc>
+                        <CostTime>100</CostTime>
+                        <ThunderValue>60000000</ThunderValue>
+                        <NeckCountdown>2000</NeckCountdown>
+                        <AddModifier>lm_5_6</AddModifier>
+                    </Neck>
+                    <Neck Location="0.7" Kind="Thunder">
+                        <DisplayName>第七次玄劫</DisplayName>
+                        <Desc>\n天劫</Desc>
+                        <CostTime>100</CostTime>
+                        <ThunderValue>70000000</ThunderValue>
+                        <NeckCountdown>2000</NeckCountdown>
+                        <AddModifier>lm_5_7</AddModifier>
+                    </Neck>
+                    <Neck Location="0.8" Kind="Thunder">
+                        <DisplayName>第八次玄劫</DisplayName>
+                        <Desc>\n天劫</Desc>
+                        <CostTime>100</CostTime>
+                        <ThunderValue>80000000</ThunderValue>
+                        <NeckCountdown>2000</NeckCountdown>
+                        <AddModifier>lm_5_8</AddModifier>
+                    </Neck>
+                    <Neck Location="1" Kind="Thunder">
+                        <DisplayName>第九次玄劫</DisplayName>
+                        <Desc>\n天劫</Desc>
+                        <CostTime>100</CostTime>
+                        <ThunderValue>90000000</ThunderValue>
+                        <NeckCountdown>2000</NeckCountdown>
+                        <AddModifier>lm_5_9</AddModifier>
+                    </Neck>
+                </Necks>
+            </Stage>
+            <Stage Name="Stage6" Level="9">
+                <DisplayName>修真第三步(跃天尊)</DisplayName>
+                <Desc>跃天尊</Desc>
+                <Value>9000000</Value>
+                <Necks>
+                    <Neck Location="0.1" Kind="Chance">
+                        <DisplayName>初期(大尊)</DisplayName>
+                        <Desc>\n失败需要重新突破。</Desc>
+                        <CostTime>100</CostTime>
+                        <SuccessChange>-0.7</SuccessChange>
+                        <AddModifier>lm_6_1</AddModifier>
+                    </Neck>
+                    <Neck Location="0.2" Kind="Chance">
+                        <DisplayName>中期(大尊)</DisplayName>
+                        <Desc>\n失败需要重新领悟。</Desc>
+                        <CostTime>100</CostTime>
+                        <SuccessChange>-0.7</SuccessChange>
+                        <AddModifier>lm_6_2</AddModifier>
+                    </Neck>
+                    <Neck Location="0.3" Kind="Chance">
+                        <DisplayName>后期(金尊)</DisplayName>
+                        <Desc>\n失败需要重新突破。</Desc>
+                        <CostTime>100</CostTime>
+                        <SuccessChange>-0.7</SuccessChange>
+                        <AddModifier>lm_6_3</AddModifier>
+                    </Neck>
+                    <Neck Location="0.5" Kind="Chance">
+                        <DisplayName>圆满(天尊)</DisplayName>
+                        <Desc>\n失败需要重新突破。</Desc>
+                        <CostTime>100</CostTime>
+                        <SuccessChange>-0.7</SuccessChange>
+                        <AddModifier>lm_6_4</AddModifier>
+                    </Neck>
+                    <Neck Location="0.8" Kind="Chance">
+                        <DisplayName>跃天尊</DisplayName>
+                        <Desc>\n失败需要重新突破。</Desc>
+                        <CostTime>100</CostTime>
+                        <SuccessChange>-0.7</SuccessChange>
+                        <AddModifier>lm_6_5</AddModifier>
+                    </Neck>
+                    <Neck Location="1" Kind="Chance">
+                        <DisplayName>大天尊</DisplayName>
+                        <Desc>\n失败需要重新突破。</Desc>
+                        <CostTime>100</CostTime>
+                        <SuccessChange>-0.7</SuccessChange>
+                        <AddModifier>lm_6_6</AddModifier>
+                    </Neck>
+                </Necks>
+            </Stage>
+            <Stage Name="Stage7" Level="10">
+                <DisplayName>踏天九桥</DisplayName>
+                <Desc>半步踏天</Desc>
+                <Value>10000000</Value>
+                <Necks>
+                    <Neck Location="0.1" Kind="Chance">
+                        <DisplayName>踏一桥</DisplayName>
+                        <Desc>\n过桥\n失败需要重新突破。</Desc>
+                        <CostTime>1000</CostTime>
+                        <SuccessChange>-0.8</SuccessChange>
+                        <AddModifier>lm_7_1</AddModifier>
+                    </Neck>
+                    <Neck Location="0.2" Kind="Chance">
+                        <DisplayName>踏二桥</DisplayName>
+                        <Desc>\n过桥\n失败需要重新突破。</Desc>
+                        <CostTime>1000</CostTime>
+                        <SuccessChange>-0.8</SuccessChange>
+                        <AddModifier>lm_7_2</AddModifier>
+                    </Neck>
+                    <Neck Location="0.3" Kind="Chance">
+                        <DisplayName>踏三桥</DisplayName>
+                        <Desc>\n过桥\n失败需要重新突破。</Desc>
+                        <CostTime>1000</CostTime>
+                        <SuccessChange>-0.8</SuccessChange>
+                        <AddModifier>lm_7_3</AddModifier>
+                    </Neck>
+                    <Neck Location="0.4" Kind="Chance">
+                        <DisplayName>踏四桥</DisplayName>
+                        <Desc>\n过桥\n失败需要重新突破。</Desc>
+                        <CostTime>1000</CostTime>
+                        <SuccessChange>-0.8</SuccessChange>
+                        <AddModifier>lm_7_4</AddModifier>
+                    </Neck>
+                    <Neck Location="0.5" Kind="Chance">
+                        <DisplayName>踏五桥</DisplayName>
+                        <Desc>\n过桥\n失败需要重新突破。</Desc>
+                        <CostTime>1000</CostTime>
+                        <SuccessChange>-0.8</SuccessChange>
+                        <AddModifier>lm_7_5</AddModifier>
+                    </Neck>
+                    <Neck Location="0.6" Kind="Chance">
+                        <DisplayName>踏六桥</DisplayName>
+                        <Desc>\n过桥\n失败需要重新突破。</Desc>
+                        <CostTime>1000</CostTime>
+                        <SuccessChange>-0.8</SuccessChange>
+                        <AddModifier>lm_7_6</AddModifier>
+                    </Neck>
+                    <Neck Location="0.7" Kind="Chance">
+                        <DisplayName>踏七桥</DisplayName>
+                        <Desc>\n过桥\n失败需要重新突破。</Desc>
+                        <CostTime>1000</CostTime>
+                        <SuccessChange>-0.8</SuccessChange>
+                        <AddModifier>lm_7_7</AddModifier>
+                    </Neck>
+                    <Neck Location="0.8" Kind="Chance">
+                        <DisplayName>踏八桥</DisplayName>
+                        <Desc>\n过桥\n失败需要重新突破。</Desc>
+                        <CostTime>1000</CostTime>
+                        <SuccessChange>-0.8</SuccessChange>
+                        <AddModifier>lm_7_8</AddModifier>
+                    </Neck>
+                    <Neck Location="1" Kind="Chance">
+                        <DisplayName>踏九桥</DisplayName>
+                        <Desc>\n过桥\n失败需要重新突破。</Desc>
+                        <CostTime>1000</CostTime>
+                        <SuccessChange>-0.8</SuccessChange>
+                        <AddModifier>lm_7_9</AddModifier>
+                    </Neck>
+                </Necks>
+            </Stage>
+
+            <Stage Name="Stage8" Level="13">
+                <DisplayName>修真第四步之踏天</DisplayName>
+                <Desc>神</Desc>
+                <Value>20000000</Value>
+                <Necks>
+                    <Neck Location="1" Kind="God">
+                        <DisplayName>踏天</DisplayName>
+                        <Desc>踏天</Desc>
+                        <ThunderValue>100000000</ThunderValue>
+                        <AddModifier>lm_8_1</AddModifier>
+                    </Neck>
+                </Necks>
+            </Stage>
+        </Stages>
+    </Gong>
+</List></Gongs>

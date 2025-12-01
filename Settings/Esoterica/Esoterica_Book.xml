@@ -1,0 +1,17 @@
+<Esotericas><List>
+    <Esoterica Name="lm_1">
+		<DisplayName>寿命交易所</DisplayName>
+		<Desc>记载了一个地点</Desc>
+		<Hide>1</Hide>
+		<Element>None</Element>
+		<Type>None</Type>
+		<Difficulty>0</Difficulty>
+		<EffectDesc>获得地点信息：\n寿命交易所</EffectDesc>
+		<Places>
+			<li>Place_SouMing</li>
+		</Places>
+		<Secrets>
+			<li>8800</li>
+		</Secrets>
+	</Esoterica>
+</List></Esotericas>

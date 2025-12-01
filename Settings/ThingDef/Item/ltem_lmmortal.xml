@@ -1,0 +1,40 @@
+<ThingDefs><List>
+	<ThingDef Type="Item" Name="Item_huobi" Parent="RockBase">
+	<TexPath>Spr\Object\huobi.png</TexPath>
+	<ThingName>寿命币</ThingName>
+	<Desc>100年寿命交换获得</Desc>
+	<TexScale>0.1</TexScale>
+	<Rate>19</Rate>
+	<Beauty>19</Beauty>
+	<NoElementKind>1</NoElementKind>
+	<ElementKind>None</ElementKind>
+	<Tags>
+		<Tag Name="Dan_LingStone" Level="1"/>
+	</Tags>
+	<Ling>
+		<AddionLing>0</AddionLing>
+		<AddionRadius>1</AddionRadius>
+		<AddionFailing>1</AddionFailing>
+		<AddionFailRadius>1</AddionFailRadius>
+
+		<Attenuation>0</Attenuation>
+		<Absorption>0</Absorption>
+		<Accommodate>0</Accommodate>
+	</Ling>
+	<Element>
+		<Kind>None</Kind>
+		<Value>0</Value>
+		<Radius>1</Radius>
+		<Failing>0</Failing>
+		<FailRadius>0</FailRadius>
+	</Element>
+
+	<Light>e
+		<Value>30</Value>
+		<Failing>0.6</Failing>
+		<FailRadius>1</FailRadius>
+		<Radius>2</Radius>
+		<Color>cf7228</Color>
+	</Light>
+	</ThingDef>
+</List></ThingDefs>

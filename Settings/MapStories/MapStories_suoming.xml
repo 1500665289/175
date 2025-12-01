@@ -1,0 +1,74 @@
+<Stories><List>
+    <Story Name="Secrets_SouMing"  Parent="BaseFillingStory">
+		<DisplayName>寿命交换所</DisplayName>
+		<Desc>[NAME]进入这个地方，看到了中间的一个黑色的菱形晶体，菱形晶体突然开口，说:[NAME]是不是感觉寿命多了没地方花，我们这里可以把寿命交易成寿命货币</Desc>
+		<Selections>
+			<li>
+				<Display>打开交易界面</Display>
+				<OKResult>me:TriggerStory("Secrets_SouMing_1");</OKResult>
+			</li>
+			<li>
+				<Display>离开</Display>
+				<OKResult>me:AddMsg(XT("[NAME]想了想，我还是保命吧。"));world:SetWorldFlag(44,0);</OKResult>
+			</li>
+		</Selections>
+	</Story>
+	<Story Name="Secrets_SouMing_1"  Parent="BaseFillingStory">
+		<DisplayName>寿命交换所</DisplayName>
+		<Desc>[NAME]进入这个地方，看到了中间的一个黑色的菱形晶体，菱形晶体突然开口，说:[NAME]是不是感觉寿命多了没地方花，我们这里可以把寿命交易成寿命货币</Desc>
+		<Selections>
+			<li>
+				<Display>寿命货币(少量)</Display>
+				<OKResult>
+					<![CDATA[
+				if me:GetProperty("MaxAge") - me:GetAge() < 100 then
+					me:AddMsg(XT("[NAME]的寿元已经不足一百年……"));
+				else
+
+				me:AddMsg(XT("[NAME]购买成功！寿元减少一百年！"));
+				me:ModifierProperty("MaxAge",-100);
+				me:DropAwardItem("Item_huobi",1);
+				me:TriggerStory("Secrets_SouMing_1");
+				end
+				]]>
+				</OKResult>
+			</li>
+			<li>
+				<Display>寿命货币(大量)</Display>
+				<OKResult>
+					<![CDATA[
+				if me:GetProperty("MaxAge") - me:GetAge() < 1000 then
+					me:AddMsg(XT("[NAME]的寿元已经不足一千年……"));
+				else
+
+				me:AddMsg(XT("[NAME]购买成功！寿元减少一千年！"));
+				me:ModifierProperty("MaxAge",-1000);
+				me:DropAwardItem("Item_huobi",10);
+				me:TriggerStory("Secrets_SouMing_1");
+				end
+				]]>
+				</OKResult>
+			</li>
+			<li>
+				<Display>寿命货币(巨量)</Display>
+				<OKResult>
+					<![CDATA[
+				if me:GetProperty("MaxAge") - me:GetAge() < 10000 then
+					me:AddMsg(XT("[NAME]的寿元已经不足一万年……"));
+				else
+
+				me:AddMsg(XT("[NAME]购买成功！寿元减少一万年！"));
+				me:ModifierProperty("MaxAge",-10000);
+				me:DropAwardItem("Item_huobi",100);
+				me:TriggerStory("Secrets_SouMing_1");
+				end
+				]]>
+				</OKResult>
+			</li>
+			<li>
+				<Display>离开</Display>
+				<OKResult>me:AddMsg(XT("[NAME]想了想，我还是保命吧。"));world:SetWorldFlag(44,0);</OKResult>
+			</li>
+		</Selections>
+	</Story>
+</List></Stories>

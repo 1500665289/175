@@ -1,0 +1,8 @@
+<FightDef><List>
+    <Demage Name="Huo">
+        <Packs>
+            <li Rate="1"/>
+            <li PartName="TheWholeBody" Name="Boom" Rate="3" DescTags="火属性伤害"/>
+        </Packs>
+    </Demage>
+</List></FightDef>

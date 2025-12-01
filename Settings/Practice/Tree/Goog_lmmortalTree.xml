@@ -1,0 +1,646 @@
+<SkillTree><List>
+    <Node Name="qi_1" Gong="lmmortal_Gong">
+		<Esoterica>yinlishu</Esoterica>
+		<DisplayName>引力术</DisplayName>
+		<Level>Qi</Level>
+		<Index>1</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<Layers>
+		<!--	<li></li>-->
+		</Layers>
+		<PreUnit>
+		<!--	<li></li>-->
+		</PreUnit>
+		<MutexUnit>
+		<!--	<li></li>-->
+		</MutexUnit>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<Skills>
+			<!--<li Name="" Level="1"/>-->
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+	<Node Name="qi_3" Gong="lmmortal_Gong">
+		<Esoterica>huoyanqiu</Esoterica>
+		<DisplayName>火焰球</DisplayName>
+		<Level>Qi</Level>
+		<Index>3</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<Layers>
+		<!--	<li></li>-->
+		</Layers>
+		<PreUnit>
+		<!--	<li></li>-->
+		</PreUnit>
+		<MutexUnit>
+		<!--	<li></li>-->
+		</MutexUnit>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<Skills>
+			<!--<li Name="" Level="1"/>-->
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+	<Node Name="qi_5" Gong="lmmortal_Gong">
+		<Esoterica>dilieshu</Esoterica>
+		<DisplayName>地裂术</DisplayName>
+		<Level>Qi</Level>
+		<Index>5</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<Layers>
+		<!--	<li></li>-->
+		</Layers>
+		<PreUnit>
+		<!--	<li></li>-->
+		</PreUnit>
+		<MutexUnit>
+		<!--	<li></li>-->
+		</MutexUnit>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<Skills>
+			<!--<li Name="" Level="1"/>-->
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+	<Node Name="qi_7" Gong="lmmortal_Gong">
+		<Esoterica>jijing</Esoterica>
+		<DisplayName>极境</DisplayName>
+		<Level>Qi</Level>
+		<Index>7</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<Layers>
+		<!--	<li></li>-->
+		</Layers>
+		<PreUnit>
+		<!--	<li></li>-->
+		</PreUnit>
+		<MutexUnit>
+		<!--	<li></li>-->
+		</MutexUnit>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<Skills>
+			<!--<li Name="" Level="1"/>-->
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+	<Node Name="qi_9" Gong="lmmortal_Gong">
+		<Esoterica>duoji</Esoterica>
+		<DisplayName>夺基大法</DisplayName>
+		<Level>Qi</Level>
+		<Index>9</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<Layers>
+		<!--	<li></li>-->
+		</Layers>
+		<PreUnit>
+		<!--	<li></li>-->
+		</PreUnit>
+		<MutexUnit>
+		<!--	<li></li>-->
+		</MutexUnit>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<Skills>
+			<!--<li Name="" Level="1"/>-->
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+	<Node Name="qi_11" Gong="lmmortal_Gong">
+		<Esoterica>fantianyin</Esoterica>
+		<DisplayName>翻天印</DisplayName>
+		<Level>Qi</Level>
+		<Index>11</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<Layers>
+		<!--	<li></li>-->
+		</Layers>
+		<PreUnit>
+		<!--	<li></li>-->
+		</PreUnit>
+		<MutexUnit>
+		<!--	<li></li>-->
+		</MutexUnit>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<Skills>
+			<!--<li Name="" Level="1"/>-->
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+	<Node Name="Dan1_1" Gong="lmmortal_Gong">
+		<Esoterica>jimiezhi</Esoterica>
+		<DisplayName>寂灭指</DisplayName>
+		<Level>Dan1</Level>
+		<Index>1</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<Layers>
+		<!--	<li></li>-->
+		</Layers>
+		<PreUnit>
+		<!--	<li></li>-->
+		</PreUnit>
+		<MutexUnit>
+		<!--	<li></li>-->
+		</MutexUnit>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<Skills>
+			<!--<li Name="" Level="1"/>-->
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+	<Node Name="Dan1_3" Gong="lmmortal_Gong">
+		<Esoterica>huamozhi</Esoterica>
+		<DisplayName>化魔指</DisplayName>
+		<Level>Dan1</Level>
+		<Index>3</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<Layers>
+		<!--	<li></li>-->
+		</Layers>
+		<PreUnit>
+		<!--	<li></li>-->
+		</PreUnit>
+		<MutexUnit>
+		<!--	<li></li>-->
+		</MutexUnit>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<Skills>
+			<!--<li Name="" Level="1"/>-->
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+	<Node Name="Dan1_5" Gong="lmmortal_Gong">
+		<Esoterica>huangquanzhi</Esoterica>
+		<DisplayName>黄泉指</DisplayName>
+		<Level>Dan1</Level>
+		<Index>5</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<Layers>
+		<!--	<li></li>-->
+		</Layers>
+		<PreUnit>
+		<!--	<li></li>-->
+		</PreUnit>
+		<MutexUnit>
+		<!--	<li></li>-->
+		</MutexUnit>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<Skills>
+			<!--<li Name="" Level="1"/>-->
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+	<Node Name="Dan1_7" Gong="lmmortal_Gong">
+		<Esoterica>shalujianjue</Esoterica>
+		<DisplayName>杀戮剑诀</DisplayName>
+		<Level>Dan1</Level>
+		<Index>7</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<Layers>
+		<!--	<li></li>-->
+		</Layers>
+		<PreUnit>
+		<!--	<li></li>-->
+		</PreUnit>
+		<MutexUnit>
+		<!--	<li></li>-->
+		</MutexUnit>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<Skills>
+			<!--<li Name="" Level="1"/>-->
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+	<Node Name="Dan1_9" Gong="lmmortal_Gong">
+		<Esoterica>leiyuanshu</Esoterica>
+		<DisplayName>雷元术</DisplayName>
+		<Level>Dan1</Level>
+		<Index>9</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<Layers>
+		<!--	<li></li>-->
+		</Layers>
+		<PreUnit>
+		<!--	<li></li>-->
+		</PreUnit>
+		<MutexUnit>
+		<!--	<li></li>-->
+		</MutexUnit>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<Skills>
+			<!--<li Name="" Level="1"/>-->
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+	<Node Name="Dan1_11" Gong="lmmortal_Gong">
+		<Esoterica>hufenghuanyu</Esoterica>
+		<DisplayName>呼风唤雨</DisplayName>
+		<Level>Dan1</Level>
+		<Index>11</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<Layers>
+		<!--	<li></li>-->
+		</Layers>
+		<PreUnit>
+		<!--	<li></li>-->
+		</PreUnit>
+		<MutexUnit>
+		<!--	<li></li>-->
+		</MutexUnit>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<Skills>
+			<!--<li Name="" Level="1"/>-->
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+	<Node Name="Dan2_1" Gong="lmmortal_Gong">
+		<Esoterica>mieshishalulei</Esoterica>
+		<DisplayName>灭世杀戮雷</DisplayName>
+		<Level>Dan2</Level>
+		<Index>1</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<Layers>
+		<!--	<li></li>-->
+		</Layers>
+		<PreUnit>
+		<!--	<li></li>-->
+		</PreUnit>
+		<MutexUnit>
+		<!--	<li></li>-->
+		</MutexUnit>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<Skills>
+			<!--<li Name="" Level="1"/>-->
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+	<Node Name="Dan2_3" Gong="lmmortal_Gong">
+		<Esoterica>jiuzhidaomoyin</Esoterica>
+		<DisplayName>九指道魔印</DisplayName>
+		<Level>Dan2</Level>
+		<Index>3</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<Layers>
+		<!--	<li></li>-->
+		</Layers>
+		<PreUnit>
+		<!--	<li></li>-->
+		</PreUnit>
+		<MutexUnit>
+		<!--	<li></li>-->
+		</MutexUnit>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<Skills>
+			<!--<li Name="" Level="1"/>-->
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+	<Node Name="Dan2_5" Gong="lmmortal_Gong">
+		<Esoterica>shenjue</Esoterica>
+		<DisplayName>神诀</DisplayName>
+		<Level>Dan2</Level>
+		<Index>5</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<Layers>
+		<!--	<li></li>-->
+		</Layers>
+		<PreUnit>
+		<!--	<li></li>-->
+		</PreUnit>
+		<MutexUnit>
+		<!--	<li></li>-->
+		</MutexUnit>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<Skills>
+			<!--<li Name="" Level="1"/>-->
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+	<Node Name="Dan2_7" Gong="lmmortal_Gong">
+		<Esoterica>xianrenbumieti</Esoterica>
+		<DisplayName>仙人不灭体</DisplayName>
+		<Level>Dan2</Level>
+		<Index>7</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<Layers>
+		<!--	<li></li>-->
+		</Layers>
+		<PreUnit>
+		<!--	<li></li>-->
+		</PreUnit>
+		<MutexUnit>
+		<!--	<li></li>-->
+		</MutexUnit>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<Skills>
+			<!--<li Name="" Level="1"/>-->
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+	<Node Name="Dan2_9" Gong="lmmortal_Gong">
+		<Esoterica>bumieleitin</Esoterica>
+		<DisplayName>不灭雷霆</DisplayName>
+		<Level>Dan2</Level>
+		<Index>9</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<Layers>
+		<!--	<li></li>-->
+		</Layers>
+		<PreUnit>
+		<!--	<li></li>-->
+		</PreUnit>
+		<MutexUnit>
+		<!--	<li></li>-->
+		</MutexUnit>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<Skills>
+			<!--<li Name="" Level="1"/>-->
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+	<Node Name="Dan2_11" Gong="lmmortal_Gong">
+		<Esoterica>shensuanzhishu</Esoterica>
+		<DisplayName>神算之术</DisplayName>
+		<Level>Dan2</Level>
+		<Index>11</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<Layers>
+		<!--	<li></li>-->
+		</Layers>
+		<PreUnit>
+		<!--	<li></li>-->
+		</PreUnit>
+		<MutexUnit>
+		<!--	<li></li>-->
+		</MutexUnit>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<Skills>
+			<!--<li Name="" Level="1"/>-->
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+	<Node Name="God_1" Gong="lmmortal_Gong">
+		<Esoterica>jitiandao</Esoterica>
+		<DisplayName>极天道</DisplayName>
+		<Level>God</Level>
+		<Index>1</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<Layers>
+		<!--	<li></li>-->
+		</Layers>
+		<PreUnit>
+		<!--	<li></li>-->
+		</PreUnit>
+		<MutexUnit>
+		<!--	<li></li>-->
+		</MutexUnit>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<Skills>
+			<!--<li Name="" Level="1"/>-->
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+	<Node Name="God_3" Gong="lmmortal_Gong">
+		<Esoterica>jididao</Esoterica>
+		<DisplayName>极地道</DisplayName>
+		<Level>God</Level>
+		<Index>3</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<Layers>
+		<!--	<li></li>-->
+		</Layers>
+		<PreUnit>
+		<!--	<li></li>-->
+		</PreUnit>
+		<MutexUnit>
+		<!--	<li></li>-->
+		</MutexUnit>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<Skills>
+			<!--<li Name="" Level="1"/>-->
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+	<Node Name="God_4" Gong="lmmortal_Gong">
+		<Esoterica>jimingdao</Esoterica>
+		<DisplayName>极命道</DisplayName>
+		<Level>God</Level>
+		<Index>4</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<Layers>
+		<!--	<li></li>-->
+		</Layers>
+		<PreUnit>
+		<!--	<li></li>-->
+		</PreUnit>
+		<MutexUnit>
+		<!--	<li></li>-->
+		</MutexUnit>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<Skills>
+			<!--<li Name="" Level="1"/>-->
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+	<Node Name="God_5" Gong="lmmortal_Gong">
+		<Esoterica>jijindao</Esoterica>
+		<DisplayName>极金道</DisplayName>
+		<Level>God</Level>
+		<Index>5</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<Layers>
+		<!--	<li></li>-->
+		</Layers>
+		<PreUnit>
+		<!--	<li></li>-->
+		</PreUnit>
+		<MutexUnit>
+		<!--	<li></li>-->
+		</MutexUnit>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<Skills>
+			<!--<li Name="" Level="1"/>-->
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+	<Node Name="God_7" Gong="lmmortal_Gong">
+		<Esoterica>jimudao</Esoterica>
+		<DisplayName>极木道</DisplayName>
+		<Level>God</Level>
+		<Index>7</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<Layers>
+		<!--	<li></li>-->
+		</Layers>
+		<PreUnit>
+		<!--	<li></li>-->
+		</PreUnit>
+		<MutexUnit>
+		<!--	<li></li>-->
+		</MutexUnit>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<Skills>
+			<!--<li Name="" Level="1"/>-->
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+	<Node Name="God_8" Gong="lmmortal_Gong">
+		<Esoterica>jishuidao</Esoterica>
+		<DisplayName>极水道</DisplayName>
+		<Level>God</Level>
+		<Index>8</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<Layers>
+		<!--	<li></li>-->
+		</Layers>
+		<PreUnit>
+		<!--	<li></li>-->
+		</PreUnit>
+		<MutexUnit>
+		<!--	<li></li>-->
+		</MutexUnit>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<Skills>
+			<!--<li Name="" Level="1"/>-->
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+	<Node Name="God_9" Gong="lmmortal_Gong">
+		<Esoterica>jihuodao</Esoterica>
+		<DisplayName>极火道</DisplayName>
+		<Level>God</Level>
+		<Index>9</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<Layers>
+		<!--	<li></li>-->
+		</Layers>
+		<PreUnit>
+		<!--	<li></li>-->
+		</PreUnit>
+		<MutexUnit>
+		<!--	<li></li>-->
+		</MutexUnit>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<Skills>
+			<!--<li Name="" Level="1"/>-->
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+	<Node Name="God_11" Gong="lmmortal_Gong">
+		<Esoterica>jitudao</Esoterica>
+		<DisplayName>极土道</DisplayName>
+		<Level>God</Level>
+		<Index>11</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<Layers>
+		<!--	<li></li>-->
+		</Layers>
+		<PreUnit>
+		<!--	<li></li>-->
+		</PreUnit>
+		<MutexUnit>
+		<!--	<li></li>-->
+		</MutexUnit>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<Skills>
+			<!--<li Name="" Level="1"/>-->
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+	<Node Name="God2_3" Gong="lmmortal_Gong">
+		<Esoterica>daoguwuxian</Esoterica>
+		<DisplayName>道古无仙</DisplayName>
+		<Level>God2</Level>
+		<Index>3</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<Layers>
+		<!--	<li></li>-->
+		</Layers>
+		<PreUnit>
+		<!--	<li></li>-->
+		</PreUnit>
+		<MutexUnit>
+		<!--	<li></li>-->
+		</MutexUnit>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<Skills>
+			<!--<li Name="" Level="1"/>-->
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+	<Node Name="God2_9" Gong="lmmortal_Gong">
+		<Esoterica>dingjieluopan</Esoterica>
+		<DisplayName>定界罗盘</DisplayName>
+		<Level>God2</Level>
+		<Index>9</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<Layers>
+		<!--	<li></li>-->
+		</Layers>
+		<PreUnit>
+		<!--	<li></li>-->
+		</PreUnit>
+		<MutexUnit>
+		<!--	<li></li>-->
+		</MutexUnit>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<Skills>
+			<!--<li Name="" Level="1"/>-->
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+</List></SkillTree>

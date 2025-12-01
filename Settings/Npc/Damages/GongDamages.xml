@@ -1,0 +1,15 @@
+<DamageDefs><List>
+
+
+    <Damage Name="Boom">
+        <DisplayName>灵气爆炸</DisplayName>
+		<Lable>Ling</Lable>
+		<TreatConstant>0</TreatConstant>
+		<ValueMin>1</ValueMin>
+		<ValueMax>1</ValueMax>
+		<Pain>3</Pain>
+		<Trend>3</Trend>
+		<Previous></Previous>
+		<Next></Next>
+	</Damage>
+</List></DamageDefs>

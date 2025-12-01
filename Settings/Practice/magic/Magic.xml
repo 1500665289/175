@@ -1,0 +1,78 @@
+<Magics><List>
+    <Magic Name="duoji_buff">
+		<DisplayName>夺基大法</DisplayName>
+		<Desc>吸取一个无修为活物的寿命，并增加自身修为，并同时获取参悟。目标体质越高，效果越强。</Desc>
+		<Icon>res\Sprs\ui\icon_dinglu01</Icon>
+		<Kind>Bad</Kind>
+		<Param1>0</Param1><!--天谴值/秒-->
+		<Param2>0.00008</Param2><!--同类系数 目标体质 * 0.008% * 当前境界所需修为 / 秒-->
+		<Param3>0.00003</Param3><!--不同类系数 目标体质 * 0.004% * 当前境界所需修为 / 秒-->
+		<Param4>20</Param4><!--同类系数 参悟获取速度 体质*X / 秒-->
+		<Param5>2</Param5><!--不同类系数  参悟获取速度 体质*X / 秒-->
+		<ScoreBase>-50</ScoreBase>
+		<ScoreBad>50</ScoreBad>
+		<CMD>AbsorbGong_1</CMD>
+		<SelectType>NormalNpc</SelectType>
+	</Magic>
+	<Magic Name="hufenghuanyu_buff">
+		<DisplayName>呼风唤雨</DisplayName>
+		<Desc>在冬季夏季，利用神通求得一场暴雨，但是此举有干天数，会折损寿元。</Desc>
+		<Icon>res\Sprs\ui\icon_zhaolei01</Icon>
+		<Kind>Good</Kind>
+		<Ani>shentong1</Ani>
+		<Param1>5.334</Param1><!--施法时间-->
+		<sParam1>Rainstorm</sParam1><!--天气名称，可以用逗号隔开-->
+		<CostLing>30000</CostLing>
+		<CostGong>0</CostGong>
+		<CostAge>20</CostAge>
+		<CMD>AbsorbGong_15</CMD>
+	</Magic>
+	<Magic Name="fantianyin_buff">
+		<DisplayName>翻天印</DisplayName>
+		<Desc>白天变黑夜</Desc>
+		<Icon>Spr\Gong\fantianyin.png</Icon>
+		<Kind>Good</Kind>
+		<Ani>shentong1</Ani>
+		<Param1>5.334</Param1><!--施法时间-->
+		<sParam1>Night</sParam1><!--天气名称，可以用逗号隔开-->
+		<CostLing>30000</CostLing>
+		<CostGong>0</CostGong>
+		<CostAge>20</CostAge>
+		<CMD>AbsorbGong_15</CMD>
+	</Magic>
+	<Magic Name="sushenjue_buff" Type="Class">
+		<DisplayName>速神诀</DisplayName>
+		<Desc>使真仙获得历练能力。</Desc>
+		<Icon>Spr\Gong\sushenjue.png</Icon>
+		<Kind>None</Kind>
+		<CostAge>200</CostAge>
+		<Param1>1</Param1>
+		<CostLing>0</CostLing>
+		<Penalty>25</Penalty>
+		<SelectMode>None</SelectMode>
+		<ClassName>sushenjue_buff</ClassName>
+	</Magic>
+	<Magic Name="manshenjue_buff" Type="Class">
+		<DisplayName>慢神诀</DisplayName>
+		<Desc>使真仙恢复正常状态。</Desc>
+		<Icon>Spr\Gong\sushenjue.png</Icon>
+		<Kind>None</Kind>
+		<CostAge>50</CostAge>
+		<Param1>1</Param1>
+		<CostLing>0</CostLing>
+		<Penalty>15</Penalty>
+		<SelectMode>None</SelectMode>
+		<ClassName>manshenjue_buff</ClassName>
+	</Magic>
+	<Magic Name="shensuanzhishu" Type="Class">
+		<DisplayName>神算之术</DisplayName>
+		<Desc>消耗寿命推算天机，试图在未来一个月中获得前知之力。道行，悟性，机缘越高，成功率也越高。</Desc>
+		<Icon>res\Sprs\ui\icon_zhoutian01</Icon>
+		<Param1>5</Param1><!--施法时间-->
+		<Param2>16800</Param2><!--持续时间-->
+		<CostAge>10</CostAge>
+		<SelectMode>None</SelectMode>
+		<TargetAni>dazuo</TargetAni>
+		<ClassName>Magic_Prophesy</ClassName>
+	</Magic>
+</List></Magics>

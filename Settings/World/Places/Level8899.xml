@@ -1,0 +1,9 @@
+<Places><List>
+	<Place Name="Place_SouMing" Parent="Place_Level3Base">
+		<Location X="1325" Y="720"/>
+		<Icon>Spr\Object\suoming.png</Icon>
+		<DisplayName>寿命交易所</DisplayName>
+		<Scale>0.05</Scale>
+		<Desc>据说是远古大能开设的</Desc>
+	</Place>
+</List></Places>

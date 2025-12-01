@@ -1,0 +1,208 @@
+<FightSkills><List>
+	<Skill Name="huoyanqiu_buff">
+		<DisplayName>火焰球</DisplayName>
+		<Icon>Spr\Gong\huoyanqiu.png</Icon>
+		<IsTemplate>0</IsTemplate>
+		<Kind>Damage</Kind>
+		<Element>Huo</Element>
+		<ShowInUI>1</ShowInUI>
+		<SingTime>1</SingTime>
+		<CD>5</CD>
+		<LingCost>1000</LingCost>
+		<SingAni>assemble</SingAni>
+		<CastAni>LJjineng4</CastAni>
+		<Value>500</Value>
+		<TargetCamp>Enemy</TargetCamp>
+
+		<Shape>Missile</Shape>
+		<SelectType>Target</SelectType>
+		<MissileEffect>26</MissileEffect>
+		<HitEffect>61</HitEffect>
+		<Missile>	<!--弹道数据，贝塞尔曲线的四个参数-->
+			<p1>0</p1>
+			<p2>0</p2>
+			<p3>0</p3>
+			<p4>0</p4>
+		</Missile>
+	</Skill>
+	<Skill Name="dilieshu_buff">
+		<DisplayName>地裂术</DisplayName>
+		<Icon>Spr\Gong\dilieshu.png</Icon>
+		<IsTemplate>0</IsTemplate>
+		<Kind>Damage</Kind>
+		<Element>Tu</Element>
+		<ShowInUI>1</ShowInUI>
+		<SingTime>1</SingTime>
+		<CD>5</CD>
+		<LingCost>1000</LingCost>
+		<SingAni>assemble</SingAni>
+		<CastAni>LJjineng4</CastAni>
+		<Value>500</Value>
+		<TargetCamp>Enemy</TargetCamp>
+
+		<Shape>Missile</Shape>
+		<SelectType>Target</SelectType>
+		<MissileEffect>26</MissileEffect>
+		<HitEffect>61</HitEffect>
+		<Missile>	<!--弹道数据，贝塞尔曲线的四个参数-->
+			<p1>0</p1>
+			<p2>0</p2>
+			<p3>0</p3>
+			<p4>0</p4>
+		</Missile>
+	</Skill>
+	<Skill Name="jimiezhi_buff">
+		<DisplayName>寂灭指</DisplayName>
+		<IsTemplate>0</IsTemplate>
+		<Kind>Damage</Kind>
+		<Element>None</Element>
+		<ShowInUI>1</ShowInUI>
+		<SingTime>1</SingTime>
+		<CD>5</CD>
+		<LingCost>1000</LingCost>
+		<SingAni>assemble</SingAni>
+		<CastAni>LJjineng4</CastAni>
+		<Value>500</Value>
+		<TargetCamp>Enemy</TargetCamp>
+
+		<Shape>Missile</Shape>
+		<SelectType>Target</SelectType>
+		<MissileEffect>26</MissileEffect>
+		<HitEffect>61</HitEffect>
+		<Missile>	<!--弹道数据，贝塞尔曲线的四个参数-->
+			<p1>0</p1>
+			<p2>0</p2>
+			<p3>0</p3>
+			<p4>0</p4>
+		</Missile>
+	</Skill>
+	<Skill Name="huangquanzhi_buff">
+		<DisplayName>黄泉指</DisplayName>
+		<IsTemplate>0</IsTemplate>
+		<Kind>Damage</Kind>
+		<Element>None</Element>
+		<ShowInUI>1</ShowInUI>
+		<SingTime>1</SingTime>
+		<CD>5</CD>
+		<LingCost>1000</LingCost>
+		<SingAni>assemble</SingAni>
+		<CastAni>LJjineng4</CastAni>
+		<Value>500</Value>
+		<TargetCamp>Enemy</TargetCamp>
+
+		<Shape>Missile</Shape>
+		<SelectType>Target</SelectType>
+		<MissileEffect>26</MissileEffect>
+		<HitEffect>61</HitEffect>
+		<Missile>	<!--弹道数据，贝塞尔曲线的四个参数-->
+			<p1>0</p1>
+			<p2>0</p2>
+			<p3>0</p3>
+			<p4>0</p4>
+		</Missile>
+	</Skill>
+	<Skill Name="shalujianjue_buff"><!--术法增强基础模板 -->
+		<DisplayName>杀戮剑诀</DisplayName>
+		<IsTemplate>0</IsTemplate>
+		<Kind>Skill</Kind>
+		<ShowInUI>1</ShowInUI>
+		<SingTime>0.5</SingTime>
+		<CD>90</CD>
+		<LingCost>400</LingCost>
+		<SingAni>assemble</SingAni>
+		<CastAni>LJjineng9</CastAni>
+		<Value>0.3</Value>
+		<Value2>3000</Value2>
+		<TargetCamp>Friendly</TargetCamp>
+
+		<Shape>Single</Shape>
+		<SelectType>Self</SelectType>
+		<HitEffect>71</HitEffect>
+	</Skill>
+	<Skill Name="leiyuanshu_buff"><!--护体真强基础模板 -->
+		<DisplayName>雷元术</DisplayName>
+		<IsTemplate>0</IsTemplate>
+		<Kind>Sheild</Kind>
+		<ShowInUI>1</ShowInUI>
+		<SingTime>0.5</SingTime>
+		<CD>15</CD>
+		<LingCost>100</LingCost>
+		<SingAni>assemble</SingAni>
+		<CastAni>LJjineng10</CastAni>
+		<Value>1</Value>
+		<Value2>3000</Value2>
+		<TargetCamp>Friendly</TargetCamp>
+
+		<Shape>Single</Shape>
+		<SelectType>Self</SelectType>
+		<HitEffect>60</HitEffect>
+	</Skill>
+	<Skill Name="mieshishalulei_buff"><!--伤害技能基础模板 -->
+		<DisplayName>灭世杀戮雷</DisplayName>
+		<IsTemplate>0</IsTemplate>
+		<Kind>Damage</Kind>
+		<Element>None</Element>
+		<ShowInUI>1</ShowInUI>
+		<SingTime>1</SingTime>
+		<CD>45</CD>
+		<LingCost>200</LingCost>
+		<SingAni>assemble</SingAni>
+		<CastAni>LJjineng4</CastAni>
+		<Value>45</Value>
+		<TargetCamp>Enemy</TargetCamp>
+
+		<Shape>Missile</Shape>
+		<SelectType>AllNpc</SelectType>
+		<MissileEffect>18</MissileEffect>
+		<HitEffect>56</HitEffect>
+		<Missile>	<!--弹道数据，贝塞尔曲线的四个参数-->
+			<p1>1</p1>
+			<p2>0</p2>
+			<p3>1</p3>
+			<p4>0</p4>
+		</Missile>
+	</Skill>
+	<Skill Name="jiuzhidaomoyin_buff"><!--伤害技能基础模板 -->
+		<DisplayName>九指道魔印</DisplayName>
+		<IsTemplate>0</IsTemplate>
+		<Kind>Damage</Kind>
+		<Element>None</Element>
+		<ShowInUI>1</ShowInUI>
+		<SingTime>1</SingTime>
+		<CD>45</CD>
+		<LingCost>200</LingCost>
+		<SingAni>assemble</SingAni>
+		<CastAni>LJjineng4</CastAni>
+		<Value>45</Value>
+		<TargetCamp>Enemy</TargetCamp>
+
+		<Shape>Missile</Shape>
+		<SelectType>AllNpc</SelectType>
+		<MissileEffect>18</MissileEffect>
+		<HitEffect>56</HitEffect>
+		<Missile>	<!--弹道数据，贝塞尔曲线的四个参数-->
+			<p1>1</p1>
+			<p2>0</p2>
+			<p3>1</p3>
+			<p4>0</p4>
+		</Missile>
+	</Skill>
+	<Skill Name="bumieleitin_buff"><!--护体真强基础模板 -->
+		<DisplayName>不灭雷霆</DisplayName>
+		<IsTemplate>0</IsTemplate>
+		<Kind>Sheild</Kind>
+		<ShowInUI>1</ShowInUI>
+		<SingTime>0.5</SingTime>
+		<CD>15</CD>
+		<LingCost>100</LingCost>
+		<SingAni>assemble</SingAni>
+		<CastAni>LJjineng10</CastAni>
+		<Value>1</Value>
+		<Value2>3000</Value2>
+		<TargetCamp>Friendly</TargetCamp>
+
+		<Shape>Single</Shape>
+		<SelectType>Self</SelectType>
+		<HitEffect>60</HitEffect>
+	</Skill>
+</List></FightSkills>

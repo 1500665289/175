@@ -1,0 +1,1236 @@
+<ModifierDefs><List>
+	<Modifier Name="lm_1_1" Type="Normal">
+		<DisplayName>lm_1_1</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>  
+			<li Name="MaxAge" AddV="-50"/>                               <!-- 年龄 120-->
+			<li Name="NpcLingMaxValue" AddP="2.5"/>                     <!-- 灵气最大值 -->
+			<li Name="NpcFight_FabaoPowerAddP" AddP="0.5"/>             <!-- 法宝威力-->
+			<li Name="NpcFight_FabaoLingRecoverAddP" AddP="0.5"/>       <!-- 法宝灵气恢复 -->
+			<li Name="NpcFight_FabaoMaxLingAddP" AddP="0.5"/>           <!-- 法宝灵气 -->
+			<li Name="NpcFight_ShieldConversionRateAddP" AddV="0.05"/>  <!-- 法宝护盾 -->
+			<li Name="NpcFight_SpellPowerAddP" AddP="1"/>               <!-- 术法伤害 -->
+			<li Name="NpcFight_SpellLingCostAddP" AddP="1"/>            <!-- 术法灵气消耗 -->
+			<li Name="ToleranceTMin" AddV="-15"/>                       <!-- 最低极限温度 -->
+			<li Name="ComfyTMin" AddV="-7"/>							<!-- 最低舒适温度 -->
+			<li Name="ToleranceTMax" AddV="60"/>                        <!-- 最高极限温度 -->
+			<li Name="ComfyTMax" AddV="+30"/>							<!-- 最高舒适温度 -->
+			<li Name="WorldMapFlySpeedAddP" AddV="1"/>                  <!-- 历练飞行速度 -->
+			<li Name="NutritionWaterAutoRecover" AddV="1"/>           <!-- 饮气效率 -->
+			<li Name="DeepPracticeSpeedSpecialCoefficient" AddP="4"/>   <!-- 修炼速度 -->
+		</Properties>
+	</Modifier>
+	<Modifier Name="lm_1_2" Type="Normal">
+		<DisplayName>lm_1_2</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="MaxAge" AddV="80"/>                               <!-- 年龄 200-->
+			<li Name="NpcLingMaxValue" AddP="2.5"/>                     <!-- 灵气最大值 -->
+			<li Name="NpcFight_FabaoPowerAddP" AddP="0.5"/>             <!-- 法宝威力-->
+			<li Name="NpcFight_FabaoLingRecoverAddP" AddP="0.5"/>       <!-- 法宝灵气恢复 -->
+			<li Name="NpcFight_FabaoMaxLingAddP" AddP="0.5"/>           <!-- 法宝灵气 -->
+			<li Name="NpcFight_ShieldConversionRateAddP" AddV="0.05"/>  <!-- 法宝护盾 -->
+			<li Name="NpcFight_SpellPowerAddP" AddP="1"/>               <!-- 术法伤害 -->
+			<li Name="NpcFight_SpellLingCostAddP" AddP="1"/>            <!-- 术法灵气消耗 -->
+			<li Name="ToleranceTMin" AddV="-15"/>                       <!-- 最低极限温度 -->
+			<li Name="ComfyTMin" AddV="-7"/>							<!-- 最低舒适温度 -->
+			<li Name="ToleranceTMax" AddV="60"/>                        <!-- 最高极限温度 -->
+			<li Name="ComfyTMax" AddV="+30"/>							<!-- 最高舒适温度 -->
+			<li Name="WorldMapFlySpeedAddP" AddV="1"/>                  <!-- 历练飞行速度 -->
+			<li Name="NutritionWaterAutoRecover" AddV="1"/>           <!-- 饮气效率 -->
+			<li Name="DeepPracticeSpeedSpecialCoefficient" AddP="4"/>   <!-- 修炼速度 -->
+		</Properties>
+	</Modifier>
+	<Modifier Name="lm_1_3" Type="Normal">
+		<DisplayName>lm_1_3</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="MaxAge" AddV="400"/>                              <!-- 年龄 600-->
+			<li Name="NpcLingMaxValue" AddP="2.5"/>                     <!-- 灵气最大值 -->
+			<li Name="NpcFight_FabaoPowerAddP" AddP="0.5"/>             <!-- 法宝威力-->
+			<li Name="NpcFight_FabaoLingRecoverAddP" AddP="0.5"/>       <!-- 法宝灵气恢复 -->
+			<li Name="NpcFight_FabaoMaxLingAddP" AddP="0.5"/>           <!-- 法宝灵气 -->
+			<li Name="NpcFight_ShieldConversionRateAddP" AddV="0.05"/>  <!-- 法宝护盾 -->
+			<li Name="NpcFight_SpellPowerAddP" AddP="1"/>               <!-- 术法伤害 -->
+			<li Name="NpcFight_SpellLingCostAddP" AddP="1"/>            <!-- 术法灵气消耗 -->
+			<li Name="ToleranceTMin" AddV="-15"/>                       <!-- 最低极限温度 -->
+			<li Name="ComfyTMin" AddV="-7"/>							<!-- 最低舒适温度 -->
+			<li Name="ToleranceTMax" AddV="60"/>                        <!-- 最高极限温度 -->
+			<li Name="ComfyTMax" AddV="+30"/>							<!-- 最高舒适温度 -->
+			<li Name="WorldMapFlySpeedAddP" AddV="1"/>                  <!-- 历练飞行速度 -->
+			<li Name="NutritionWaterAutoRecover" AddV="1"/>           <!-- 饮气效率 -->
+			<li Name="DeepPracticeSpeedSpecialCoefficient" AddP="4"/>   <!-- 修炼速度 -->
+		</Properties>
+	</Modifier>
+	<Modifier Name="lm_1_4" Type="Normal">
+		<DisplayName>lm_1_4</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="MaxAge" AddV="600"/>                              <!-- 年龄 1200-->
+			<li Name="NpcLingMaxValue" AddP="2.5"/>                     <!-- 灵气最大值 -->
+			<li Name="NpcFight_FabaoPowerAddP" AddP="0.5"/>             <!-- 法宝威力-->
+			<li Name="NpcFight_FabaoLingRecoverAddP" AddP="0.5"/>       <!-- 法宝灵气恢复 -->
+			<li Name="NpcFight_FabaoMaxLingAddP" AddP="0.5"/>           <!-- 法宝灵气 -->
+			<li Name="NpcFight_ShieldConversionRateAddP" AddV="0.05"/>  <!-- 法宝护盾 -->
+			<li Name="NpcFight_SpellPowerAddP" AddP="1"/>               <!-- 术法伤害 -->
+			<li Name="NpcFight_SpellLingCostAddP" AddP="1"/>            <!-- 术法灵气消耗 -->
+			<li Name="ToleranceTMin" AddV="-15"/>                       <!-- 最低极限温度 -->
+			<li Name="ComfyTMin" AddV="-7"/>							<!-- 最低舒适温度 -->
+			<li Name="ToleranceTMax" AddV="60"/>                        <!-- 最高极限温度 -->
+			<li Name="ComfyTMax" AddV="+30"/>							<!-- 最高舒适温度 -->
+			<li Name="WorldMapFlySpeedAddP" AddV="1"/>                  <!-- 历练飞行速度 -->
+			<li Name="NutritionWaterAutoRecover" AddV="1"/>           <!-- 饮气效率 -->
+			<li Name="DeepPracticeSpeedSpecialCoefficient" AddP="4"/>   <!-- 修炼速度 -->
+		</Properties>
+	</Modifier>
+	<Modifier Name="lm_1_5" Type="Normal">
+		<DisplayName>lm_1_5</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="MaxAge" AddV="600"/>                              <!-- 年龄 1800-->
+			<li Name="NpcLingMaxValue" AddP="2.5"/>                     <!-- 灵气最大值 -->
+			<li Name="NpcFight_FabaoPowerAddP" AddP="0.5"/>             <!-- 法宝威力-->
+			<li Name="NpcFight_FabaoLingRecoverAddP" AddP="0.5"/>       <!-- 法宝灵气恢复 -->
+			<li Name="NpcFight_FabaoMaxLingAddP" AddP="0.5"/>           <!-- 法宝灵气 -->
+			<li Name="NpcFight_ShieldConversionRateAddP" AddV="0.05"/>  <!-- 法宝护盾 -->
+			<li Name="NpcFight_SpellPowerAddP" AddP="1"/>               <!-- 术法伤害 -->
+			<li Name="NpcFight_SpellLingCostAddP" AddP="1"/>            <!-- 术法灵气消耗 -->
+			<li Name="ToleranceTMin" AddV="-15"/>                       <!-- 最低极限温度 -->
+			<li Name="ComfyTMin" AddV="-7"/>							<!-- 最低舒适温度 -->
+			<li Name="ToleranceTMax" AddV="60"/>                        <!-- 最高极限温度 -->
+			<li Name="ComfyTMax" AddV="+30"/>							<!-- 最高舒适温度 -->
+			<li Name="WorldMapFlySpeedAddP" AddV="1"/>                  <!-- 历练飞行速度 -->
+			<li Name="NutritionWaterAutoRecover" AddV="1"/>           <!-- 饮气效率 -->
+			<li Name="DeepPracticeSpeedSpecialCoefficient" AddP="4"/>   <!-- 修炼速度 -->
+		</Properties>
+	</Modifier>
+	<Modifier Name="lm_1_6" Type="Normal">
+		<DisplayName>lm_1_2</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="MaxAge" AddV="600"/>                              <!-- 年龄 2400-->
+			<li Name="NpcLingMaxValue" AddP="2.5"/>                     <!-- 灵气最大值 -->
+			<li Name="NpcFight_FabaoPowerAddP" AddP="0.5"/>             <!-- 法宝威力-->
+			<li Name="NpcFight_FabaoLingRecoverAddP" AddP="0.5"/>       <!-- 法宝灵气恢复 -->
+			<li Name="NpcFight_FabaoMaxLingAddP" AddP="0.5"/>           <!-- 法宝灵气 -->
+			<li Name="NpcFight_ShieldConversionRateAddP" AddV="0.05"/>  <!-- 法宝护盾 -->
+			<li Name="NpcFight_SpellPowerAddP" AddP="1"/>               <!-- 术法伤害 -->
+			<li Name="NpcFight_SpellLingCostAddP" AddP="1"/>            <!-- 术法灵气消耗 -->
+			<li Name="ToleranceTMin" AddV="-15"/>                       <!-- 最低极限温度 -->
+			<li Name="ComfyTMin" AddV="-7"/>							<!-- 最低舒适温度 -->
+			<li Name="ToleranceTMax" AddV="60"/>                        <!-- 最高极限温度 -->
+			<li Name="ComfyTMax" AddV="+30"/>							<!-- 最高舒适温度 -->
+			<li Name="WorldMapFlySpeedAddP" AddV="1"/>                  <!-- 历练飞行速度 -->
+			<li Name="NutritionWaterAutoRecover" AddV="1"/>           <!-- 饮气效率 -->
+			<li Name="DeepPracticeSpeedSpecialCoefficient" AddP="4"/>   <!-- 修炼速度 -->
+		</Properties>
+	</Modifier>
+	<Modifier Name="lm_1_7" Type="Normal">
+		<DisplayName>lm_1_7</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="MaxAge" AddV="2600"/>                             <!-- 年龄 5000-->
+			<li Name="NpcLingMaxValue" AddP="2.5"/>                     <!-- 灵气最大值 -->
+			<li Name="NpcFight_FabaoPowerAddP" AddP="0.5"/>             <!-- 法宝威力-->
+			<li Name="NpcFight_FabaoLingRecoverAddP" AddP="0.5"/>       <!-- 法宝灵气恢复 -->
+			<li Name="NpcFight_FabaoMaxLingAddP" AddP="0.5"/>           <!-- 法宝灵气 -->
+			<li Name="NpcFight_ShieldConversionRateAddP" AddV="0.05"/>  <!-- 法宝护盾 -->
+			<li Name="NpcFight_SpellPowerAddP" AddP="1"/>               <!-- 术法伤害 -->
+			<li Name="NpcFight_SpellLingCostAddP" AddP="1"/>            <!-- 术法灵气消耗 -->
+			<li Name="ToleranceTMin" AddV="-15"/>                       <!-- 最低极限温度 -->
+			<li Name="ComfyTMin" AddV="-7"/>							<!-- 最低舒适温度 -->
+			<li Name="ToleranceTMax" AddV="60"/>                        <!-- 最高极限温度 -->
+			<li Name="ComfyTMax" AddV="+30"/>							<!-- 最高舒适温度 -->
+			<li Name="WorldMapFlySpeedAddP" AddV="1"/>                  <!-- 历练飞行速度 -->
+			<li Name="NutritionWaterAutoRecover" AddV="1"/>           <!-- 饮气效率 -->
+			<li Name="DeepPracticeSpeedSpecialCoefficient" AddP="4"/>   <!-- 修炼速度 -->
+		</Properties>
+	</Modifier>
+	<Modifier Name="lm_1_8" Type="Normal">
+		<DisplayName>lm_1_8</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="MaxAge" AddV="5000"/>                             <!-- 年龄 10000-->
+			<li Name="NpcLingMaxValue" AddP="2.5"/>                     <!-- 灵气最大值 -->
+			<li Name="NpcFight_FabaoPowerAddP" AddP="0.5"/>             <!-- 法宝威力-->
+			<li Name="NpcFight_FabaoLingRecoverAddP" AddP="0.5"/>       <!-- 法宝灵气恢复 -->
+			<li Name="NpcFight_FabaoMaxLingAddP" AddP="0.5"/>           <!-- 法宝灵气 -->
+			<li Name="NpcFight_ShieldConversionRateAddP" AddV="0.05"/>  <!-- 法宝护盾 -->
+			<li Name="NpcFight_SpellPowerAddP" AddP="1"/>               <!-- 术法伤害 -->
+			<li Name="NpcFight_SpellLingCostAddP" AddP="1"/>            <!-- 术法灵气消耗 -->
+			<li Name="ToleranceTMin" AddV="-15"/>                       <!-- 最低极限温度 -->
+			<li Name="ComfyTMin" AddV="-7"/>							<!-- 最低舒适温度 -->
+			<li Name="ToleranceTMax" AddV="60"/>                        <!-- 最高极限温度 -->
+			<li Name="ComfyTMax" AddV="+30"/>							<!-- 最高舒适温度 -->
+			<li Name="WorldMapFlySpeedAddP" AddV="1"/>                  <!-- 历练飞行速度 -->
+			<li Name="NutritionWaterAutoRecover" AddV="1"/>           <!-- 饮气效率 -->
+			<li Name="DeepPracticeSpeedSpecialCoefficient" AddP="4"/>   <!-- 修炼速度 -->
+		</Properties>
+	</Modifier>
+	<Modifier Name="lm_1_9" Type="Normal">
+		<DisplayName>lm_1_9</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="MaxAge" AddV="8000"/>                             <!-- 年龄 18000-->
+			<li Name="NpcLingMaxValue" AddP="2.5"/>                     <!-- 灵气最大值 -->
+			<li Name="NpcFight_FabaoPowerAddP" AddP="0.5"/>             <!-- 法宝威力-->
+			<li Name="NpcFight_FabaoLingRecoverAddP" AddP="0.5"/>       <!-- 法宝灵气恢复 -->
+			<li Name="NpcFight_FabaoMaxLingAddP" AddP="0.5"/>           <!-- 法宝灵气 -->
+			<li Name="NpcFight_ShieldConversionRateAddP" AddV="0.05"/>  <!-- 法宝护盾 -->
+			<li Name="NpcFight_SpellPowerAddP" AddP="1"/>               <!-- 术法伤害 -->
+			<li Name="NpcFight_SpellLingCostAddP" AddP="1"/>            <!-- 术法灵气消耗 -->
+			<li Name="ToleranceTMin" AddV="-15"/>                       <!-- 最低极限温度 -->
+			<li Name="ComfyTMin" AddV="-7"/>							<!-- 最低舒适温度 -->
+			<li Name="ToleranceTMax" AddV="60"/>                        <!-- 最高极限温度 -->
+			<li Name="ComfyTMax" AddV="+30"/>							<!-- 最高舒适温度 -->
+			<li Name="WorldMapFlySpeedAddP" AddV="1"/>                  <!-- 历练飞行速度 -->
+			<li Name="NutritionWaterAutoRecover" AddV="1"/>           <!-- 饮气效率 -->
+			<li Name="DeepPracticeSpeedSpecialCoefficient" AddP="4"/>   <!-- 修炼速度 -->
+		</Properties>
+	</Modifier>
+	<Modifier Name="lm_2_1" Type="Normal">
+		<DisplayName>lm_2_1</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="MaxAge" AddV="7000"/>                             <!-- 年龄 25000-->
+			<li Name="NpcLingMaxValue" AddP="5"/>                     <!-- 灵气最大值 -->
+			<li Name="NpcFight_FabaoPowerAddP" AddP="0.5"/>             <!-- 法宝威力-->
+			<li Name="NpcFight_FabaoLingRecoverAddP" AddP="0.5"/>       <!-- 法宝灵气恢复 -->
+			<li Name="NpcFight_FabaoMaxLingAddP" AddP="0.5"/>           <!-- 法宝灵气 -->
+			<li Name="NpcFight_ShieldConversionRateAddP" AddV="0.05"/>  <!-- 法宝护盾 -->
+			<li Name="NpcFight_SpellPowerAddP" AddP="1"/>               <!-- 术法伤害 -->
+			<li Name="NpcFight_SpellLingCostAddP" AddP="1"/>            <!-- 术法灵气消耗 -->
+			<li Name="ToleranceTMin" AddV="-15"/>                       <!-- 最低极限温度 -->
+			<li Name="ComfyTMin" AddV="-7"/>							<!-- 最低舒适温度 -->
+			<li Name="ToleranceTMax" AddV="60"/>                        <!-- 最高极限温度 -->
+			<li Name="ComfyTMax" AddV="+30"/>							<!-- 最高舒适温度 -->
+			<li Name="WorldMapFlySpeedAddP" AddV="1"/>                  <!-- 历练飞行速度 -->
+			<li Name="NutritionWaterAutoRecover" AddV="1"/>           <!-- 饮气效率 -->
+			<li Name="DeepPracticeSpeedSpecialCoefficient" AddP="4"/>   <!-- 修炼速度 -->
+		</Properties>
+	</Modifier>
+	<Modifier Name="lm_2_2" Type="Normal">
+		<DisplayName>lm_2_2</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="MaxAge" AddV="5000"/>                             <!-- 年龄 30000-->
+			<li Name="NpcLingMaxValue" AddP="5"/>                     <!-- 灵气最大值 -->
+			<li Name="NpcFight_FabaoPowerAddP" AddP="0.5"/>             <!-- 法宝威力-->
+			<li Name="NpcFight_FabaoLingRecoverAddP" AddP="0.5"/>       <!-- 法宝灵气恢复 -->
+			<li Name="NpcFight_FabaoMaxLingAddP" AddP="0.5"/>           <!-- 法宝灵气 -->
+			<li Name="NpcFight_ShieldConversionRateAddP" AddV="0.05"/>  <!-- 法宝护盾 -->
+			<li Name="NpcFight_SpellPowerAddP" AddP="1"/>               <!-- 术法伤害 -->
+			<li Name="NpcFight_SpellLingCostAddP" AddP="1"/>            <!-- 术法灵气消耗 -->
+			<li Name="ToleranceTMin" AddV="-15"/>                       <!-- 最低极限温度 -->
+			<li Name="ComfyTMin" AddV="-7"/>							<!-- 最低舒适温度 -->
+			<li Name="ToleranceTMax" AddV="60"/>                        <!-- 最高极限温度 -->
+			<li Name="ComfyTMax" AddV="+30"/>							<!-- 最高舒适温度 -->
+			<li Name="WorldMapFlySpeedAddP" AddV="1"/>                  <!-- 历练飞行速度 -->
+			<li Name="NutritionWaterAutoRecover" AddV="1"/>           <!-- 饮气效率 -->
+			<li Name="DeepPracticeSpeedSpecialCoefficient" AddP="4"/>   <!-- 修炼速度 -->
+		</Properties>
+	</Modifier>
+	<Modifier Name="lm_2_3" Type="Normal">
+		<DisplayName>lm_2_3</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="MaxAge" AddV="10000"/>                               <!-- 年龄 40000-->
+			<li Name="NpcLingMaxValue" AddP="5"/>                     <!-- 灵气最大值 -->
+			<li Name="NpcFight_FabaoPowerAddP" AddP="0.5"/>             <!-- 法宝威力-->
+			<li Name="NpcFight_FabaoLingRecoverAddP" AddP="0.5"/>       <!-- 法宝灵气恢复 -->
+			<li Name="NpcFight_FabaoMaxLingAddP" AddP="0.5"/>           <!-- 法宝灵气 -->
+			<li Name="NpcFight_ShieldConversionRateAddP" AddV="0.05"/>  <!-- 法宝护盾 -->
+			<li Name="NpcFight_SpellPowerAddP" AddP="1"/>               <!-- 术法伤害 -->
+			<li Name="NpcFight_SpellLingCostAddP" AddP="1"/>            <!-- 术法灵气消耗 -->
+			<li Name="ToleranceTMin" AddV="-15"/>                       <!-- 最低极限温度 -->
+			<li Name="ComfyTMin" AddV="-7"/>							<!-- 最低舒适温度 -->
+			<li Name="ToleranceTMax" AddV="60"/>                        <!-- 最高极限温度 -->
+			<li Name="ComfyTMax" AddV="+30"/>							<!-- 最高舒适温度 -->
+			<li Name="WorldMapFlySpeedAddP" AddV="1"/>                  <!-- 历练飞行速度 -->
+			<li Name="NutritionWaterAutoRecover" AddV="1"/>           <!-- 饮气效率 -->
+			<li Name="DeepPracticeSpeedSpecialCoefficient" AddP="4"/>   <!-- 修炼速度 -->
+		</Properties>
+	</Modifier>
+	<Modifier Name="lm_3_1" Type="Normal">
+		<DisplayName>lm_3_1</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="MaxAge" AddV="10000"/>                            <!-- 年龄 50000-->
+			<li Name="NpcLingMaxValue" AddP="10"/>                     	<!-- 灵气最大值 -->
+			<li Name="NpcFight_FabaoPowerAddP" AddP="10"/>             	<!-- 法宝威力-->
+			<li Name="NpcFight_FabaoLingRecoverAddP" AddP="10"/>       	<!-- 法宝灵气恢复 -->
+			<li Name="NpcFight_FabaoMaxLingAddP" AddP="10"/>           	<!-- 法宝灵气 -->
+			<li Name="NpcFight_ShieldConversionRateAddP" AddV="10"/>  	<!-- 法宝护盾 -->
+			<li Name="NpcFight_SpellPowerAddP" AddP="10"/>              <!-- 术法伤害 -->
+			<li Name="NpcFight_SpellLingCostAddP" AddP="1"/>            <!-- 术法灵气消耗 -->
+			<li Name="ToleranceTMin" AddV="-150"/>                      <!-- 最低极限温度 -->
+			<li Name="ComfyTMin" AddV="-70"/>							<!-- 最低舒适温度 -->
+			<li Name="ToleranceTMax" AddV="600"/>                       <!-- 最高极限温度 -->
+			<li Name="ComfyTMax" AddV="+300"/>							<!-- 最高舒适温度 -->
+			<li Name="FabaoMake_SuccessRateAddV" AddV="1"/>				<!-- 法宝炼制成功率 -->
+			<li Name="FabaoMake_LingInheritRateAddV" AddV="1"/>			<!-- 法宝炼制品阶 -->
+			<li Name="FabaoMake_QualityAddV" AddV="1"/>					<!-- 法宝炼制品质 -->
+			<li Name="FabaoMake_TwelveRateChance" AddV="0.1"/>			<!-- 神器炼制-->
+			<li Name="DanMake_Speed" AddV="1"/>							<!-- 炼丹速度-->
+			<li Name="DanMake_SuccessRate" AddV="1"/>					<!-- 炼丹速度-->
+			<li Name="NutritionToJingYuanK" AddV="1"/>					<!-- 获得精元率-->
+			<li Name="WorldMapFlySpeedAddP" AddV="10"/>                 <!-- 历练飞行速度 -->
+			<li Name="NutritionWaterAutoRecover" AddV="2"/>           	<!-- 饮气效率 -->
+		</Properties>
+	</Modifier>
+	<Modifier Name="lm_3_2" Type="Normal">
+		<DisplayName>lm_3_2</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="MaxAge" AddV="10000"/>                            <!-- 年龄 60000-->
+			<li Name="NpcLingMaxValue" AddP="10"/>                     	<!-- 灵气最大值 -->
+			<li Name="NpcFight_FabaoPowerAddP" AddP="10"/>             	<!-- 法宝威力-->
+			<li Name="NpcFight_FabaoLingRecoverAddP" AddP="10"/>       	<!-- 法宝灵气恢复 -->
+			<li Name="NpcFight_FabaoMaxLingAddP" AddP="10"/>           	<!-- 法宝灵气 -->
+			<li Name="NpcFight_ShieldConversionRateAddP" AddV="10"/>  	<!-- 法宝护盾 -->
+			<li Name="NpcFight_SpellPowerAddP" AddP="10"/>              <!-- 术法伤害 -->
+			<li Name="NpcFight_SpellLingCostAddP" AddP="1"/>            <!-- 术法灵气消耗 -->
+			<li Name="ToleranceTMin" AddV="-150"/>                      <!-- 最低极限温度 -->
+			<li Name="ComfyTMin" AddV="-70"/>							<!-- 最低舒适温度 -->
+			<li Name="ToleranceTMax" AddV="600"/>                       <!-- 最高极限温度 -->
+			<li Name="ComfyTMax" AddV="+300"/>							<!-- 最高舒适温度 -->
+			<li Name="FabaoMake_SuccessRateAddV" AddV="1"/>				<!-- 法宝炼制成功率 -->
+			<li Name="FabaoMake_LingInheritRateAddV" AddV="1"/>			<!-- 法宝炼制品阶 -->
+			<li Name="FabaoMake_QualityAddV" AddV="1"/>					<!-- 法宝炼制品质 -->
+			<li Name="FabaoMake_TwelveRateChance" AddV="0.1"/>			<!-- 神器炼制-->
+			<li Name="DanMake_Speed" AddV="1"/>							<!-- 炼丹速度-->
+			<li Name="DanMake_SuccessRate" AddV="1"/>					<!-- 炼丹速度-->
+			<li Name="NutritionToJingYuanK" AddV="1"/>					<!-- 获得精元率-->
+			<li Name="WorldMapFlySpeedAddP" AddV="10"/>                 <!-- 历练飞行速度 -->
+			<li Name="NutritionWaterAutoRecover" AddV="2"/>           	<!-- 饮气效率 -->
+		</Properties>
+	</Modifier>
+	<Modifier Name="lm_3_3" Type="Normal">
+		<DisplayName>lm_3_3</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="MaxAge" AddV="10000"/>                            <!-- 年龄 70000-->
+			<li Name="NpcLingMaxValue" AddP="10"/>                     	<!-- 灵气最大值 -->
+			<li Name="NpcFight_FabaoPowerAddP" AddP="10"/>             	<!-- 法宝威力-->
+			<li Name="NpcFight_FabaoLingRecoverAddP" AddP="10"/>       	<!-- 法宝灵气恢复 -->
+			<li Name="NpcFight_FabaoMaxLingAddP" AddP="10"/>           	<!-- 法宝灵气 -->
+			<li Name="NpcFight_ShieldConversionRateAddP" AddV="10"/>  	<!-- 法宝护盾 -->
+			<li Name="NpcFight_SpellPowerAddP" AddP="10"/>              <!-- 术法伤害 -->
+			<li Name="NpcFight_SpellLingCostAddP" AddP="1"/>            <!-- 术法灵气消耗 -->
+			<li Name="ToleranceTMin" AddV="-150"/>                      <!-- 最低极限温度 -->
+			<li Name="ComfyTMin" AddV="-70"/>							<!-- 最低舒适温度 -->
+			<li Name="ToleranceTMax" AddV="600"/>                       <!-- 最高极限温度 -->
+			<li Name="ComfyTMax" AddV="+300"/>							<!-- 最高舒适温度 -->
+			<li Name="FabaoMake_SuccessRateAddV" AddV="1"/>				<!-- 法宝炼制成功率 -->
+			<li Name="FabaoMake_LingInheritRateAddV" AddV="1"/>			<!-- 法宝炼制品阶 -->
+			<li Name="FabaoMake_QualityAddV" AddV="1"/>					<!-- 法宝炼制品质 -->
+			<li Name="FabaoMake_TwelveRateChance" AddV="0.1"/>			<!-- 神器炼制-->
+			<li Name="DanMake_Speed" AddV="1"/>							<!-- 炼丹速度-->
+			<li Name="DanMake_SuccessRate" AddV="1"/>					<!-- 炼丹速度-->
+			<li Name="NutritionToJingYuanK" AddV="1"/>					<!-- 获得精元率-->
+			<li Name="WorldMapFlySpeedAddP" AddV="10"/>                 <!-- 历练飞行速度 -->
+			<li Name="NutritionWaterAutoRecover" AddV="2"/>           	<!-- 饮气效率 -->
+		</Properties>
+	</Modifier>
+	<Modifier Name="lm_3_4" Type="Normal">
+		<DisplayName>lm_3_4</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="MaxAge" AddV="10000"/>                            <!-- 年龄 80000-->
+			<li Name="NpcLingMaxValue" AddP="10"/>                     	<!-- 灵气最大值 -->
+			<li Name="NpcFight_FabaoPowerAddP" AddP="10"/>             	<!-- 法宝威力-->
+			<li Name="NpcFight_FabaoLingRecoverAddP" AddP="10"/>       	<!-- 法宝灵气恢复 -->
+			<li Name="NpcFight_FabaoMaxLingAddP" AddP="10"/>           	<!-- 法宝灵气 -->
+			<li Name="NpcFight_ShieldConversionRateAddP" AddV="10"/>  	<!-- 法宝护盾 -->
+			<li Name="NpcFight_SpellPowerAddP" AddP="10"/>              <!-- 术法伤害 -->
+			<li Name="NpcFight_SpellLingCostAddP" AddP="1"/>            <!-- 术法灵气消耗 -->
+			<li Name="ToleranceTMin" AddV="-150"/>                      <!-- 最低极限温度 -->
+			<li Name="ComfyTMin" AddV="-70"/>							<!-- 最低舒适温度 -->
+			<li Name="ToleranceTMax" AddV="600"/>                       <!-- 最高极限温度 -->
+			<li Name="ComfyTMax" AddV="+300"/>							<!-- 最高舒适温度 -->
+			<li Name="FabaoMake_SuccessRateAddV" AddV="1"/>				<!-- 法宝炼制成功率 -->
+			<li Name="FabaoMake_LingInheritRateAddV" AddV="1"/>			<!-- 法宝炼制品阶 -->
+			<li Name="FabaoMake_QualityAddV" AddV="1"/>					<!-- 法宝炼制品质 -->
+			<li Name="FabaoMake_TwelveRateChance" AddV="0.1"/>			<!-- 神器炼制-->
+			<li Name="DanMake_Speed" AddV="1"/>							<!-- 炼丹速度-->
+			<li Name="DanMake_SuccessRate" AddV="1"/>					<!-- 炼丹速度-->
+			<li Name="NutritionToJingYuanK" AddV="1"/>					<!-- 获得精元率-->
+			<li Name="WorldMapFlySpeedAddP" AddV="10"/>                 <!-- 历练飞行速度 -->
+			<li Name="NutritionWaterAutoRecover" AddV="2"/>           	<!-- 饮气效率 -->
+		</Properties>
+	</Modifier>
+	<Modifier Name="lm_3_5" Type="Normal">
+		<DisplayName>lm_3_5</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="MaxAge" AddV="10000"/>                            <!-- 年龄 90000-->
+			<li Name="NpcLingMaxValue" AddP="10"/>                     	<!-- 灵气最大值 -->
+			<li Name="NpcFight_FabaoPowerAddP" AddP="10"/>             	<!-- 法宝威力-->
+			<li Name="NpcFight_FabaoLingRecoverAddP" AddP="10"/>       	<!-- 法宝灵气恢复 -->
+			<li Name="NpcFight_FabaoMaxLingAddP" AddP="10"/>           	<!-- 法宝灵气 -->
+			<li Name="NpcFight_ShieldConversionRateAddP" AddV="10"/>  	<!-- 法宝护盾 -->
+			<li Name="NpcFight_SpellPowerAddP" AddP="10"/>              <!-- 术法伤害 -->
+			<li Name="NpcFight_SpellLingCostAddP" AddP="1"/>            <!-- 术法灵气消耗 -->
+			<li Name="ToleranceTMin" AddV="-150"/>                      <!-- 最低极限温度 -->
+			<li Name="ComfyTMin" AddV="-70"/>							<!-- 最低舒适温度 -->
+			<li Name="ToleranceTMax" AddV="600"/>                       <!-- 最高极限温度 -->
+			<li Name="ComfyTMax" AddV="+300"/>							<!-- 最高舒适温度 -->
+			<li Name="FabaoMake_SuccessRateAddV" AddV="1"/>				<!-- 法宝炼制成功率 -->
+			<li Name="FabaoMake_LingInheritRateAddV" AddV="1"/>			<!-- 法宝炼制品阶 -->
+			<li Name="FabaoMake_QualityAddV" AddV="1"/>					<!-- 法宝炼制品质 -->
+			<li Name="FabaoMake_TwelveRateChance" AddV="0.1"/>			<!-- 神器炼制-->
+			<li Name="DanMake_Speed" AddV="1"/>							<!-- 炼丹速度-->
+			<li Name="DanMake_SuccessRate" AddV="1"/>					<!-- 炼丹速度-->
+			<li Name="NutritionToJingYuanK" AddV="1"/>					<!-- 获得精元率-->
+			<li Name="WorldMapFlySpeedAddP" AddV="10"/>                 <!-- 历练飞行速度 -->
+			<li Name="NutritionWaterAutoRecover" AddV="2"/>           	<!-- 饮气效率 -->
+		</Properties>
+	</Modifier>
+	<Modifier Name="lm_4_1" Type="Normal">
+		<DisplayName>lm_4_1</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="MaxAge" AddV="50000"/>                            <!-- 年龄 140000-->
+			<li Name="NpcLingMaxValue" AddP="10"/>                     	<!-- 灵气最大值 -->
+			<li Name="NpcFight_FabaoPowerAddP" AddP="10"/>             	<!-- 法宝威力-->
+			<li Name="NpcFight_FabaoLingRecoverAddP" AddP="10"/>       	<!-- 法宝灵气恢复 -->
+			<li Name="NpcFight_FabaoMaxLingAddP" AddP="10"/>           	<!-- 法宝灵气 -->
+			<li Name="NpcFight_ShieldConversionRateAddP" AddV="10"/>  	<!-- 法宝护盾 -->
+			<li Name="NpcFight_SpellPowerAddP" AddP="10"/>              <!-- 术法伤害 -->
+			<li Name="NpcFight_SpellLingCostAddP" AddP="1"/>            <!-- 术法灵气消耗 -->
+			<li Name="ToleranceTMin" AddV="-150"/>                      <!-- 最低极限温度 -->
+			<li Name="ComfyTMin" AddV="-70"/>							<!-- 最低舒适温度 -->
+			<li Name="ToleranceTMax" AddV="600"/>                       <!-- 最高极限温度 -->
+			<li Name="ComfyTMax" AddV="+300"/>							<!-- 最高舒适温度 -->
+			<li Name="FabaoMake_SuccessRateAddV" AddV="1"/>				<!-- 法宝炼制成功率 -->
+			<li Name="FabaoMake_LingInheritRateAddV" AddV="1"/>			<!-- 法宝炼制品阶 -->
+			<li Name="FabaoMake_QualityAddV" AddV="1"/>					<!-- 法宝炼制品质 -->
+			<li Name="FabaoMake_TwelveRateChance" AddV="0.1"/>			<!-- 神器炼制-->
+			<li Name="DanMake_Speed" AddV="1"/>							<!-- 炼丹速度-->
+			<li Name="DanMake_SuccessRate" AddV="1"/>					<!-- 炼丹速度-->
+			<li Name="NutritionToJingYuanK" AddV="1"/>					<!-- 获得精元率-->
+			<li Name="WorldMapFlySpeedAddP" AddV="10"/>                 <!-- 历练飞行速度 -->
+			<li Name="NutritionWaterAutoRecover" AddV="2"/>           	<!-- 饮气效率 -->
+		</Properties>
+	</Modifier>
+	<Modifier Name="lm_4_2" Type="Normal">
+		<DisplayName>lm_4_2</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="MaxAge" AddV="50000"/>                            <!-- 年龄 190000-->
+			<li Name="NpcLingMaxValue" AddP="10"/>                     	<!-- 灵气最大值 -->
+			<li Name="NpcFight_FabaoPowerAddP" AddP="10"/>             	<!-- 法宝威力-->
+			<li Name="NpcFight_FabaoLingRecoverAddP" AddP="10"/>       	<!-- 法宝灵气恢复 -->
+			<li Name="NpcFight_FabaoMaxLingAddP" AddP="10"/>           	<!-- 法宝灵气 -->
+			<li Name="NpcFight_ShieldConversionRateAddP" AddV="10"/>  	<!-- 法宝护盾 -->
+			<li Name="NpcFight_SpellPowerAddP" AddP="10"/>              <!-- 术法伤害 -->
+			<li Name="NpcFight_SpellLingCostAddP" AddP="1"/>            <!-- 术法灵气消耗 -->
+			<li Name="ToleranceTMin" AddV="-150"/>                      <!-- 最低极限温度 -->
+			<li Name="ComfyTMin" AddV="-70"/>							<!-- 最低舒适温度 -->
+			<li Name="ToleranceTMax" AddV="600"/>                       <!-- 最高极限温度 -->
+			<li Name="ComfyTMax" AddV="+300"/>							<!-- 最高舒适温度 -->
+			<li Name="FabaoMake_SuccessRateAddV" AddV="1"/>				<!-- 法宝炼制成功率 -->
+			<li Name="FabaoMake_LingInheritRateAddV" AddV="1"/>			<!-- 法宝炼制品阶 -->
+			<li Name="FabaoMake_QualityAddV" AddV="1"/>					<!-- 法宝炼制品质 -->
+			<li Name="FabaoMake_TwelveRateChance" AddV="0.1"/>			<!-- 神器炼制-->
+			<li Name="DanMake_Speed" AddV="1"/>							<!-- 炼丹速度-->
+			<li Name="DanMake_SuccessRate" AddV="1"/>					<!-- 炼丹速度-->
+			<li Name="NutritionToJingYuanK" AddV="1"/>					<!-- 获得精元率-->
+			<li Name="WorldMapFlySpeedAddP" AddV="10"/>                 <!-- 历练飞行速度 -->
+			<li Name="NutritionWaterAutoRecover" AddV="2"/>           	<!-- 饮气效率 -->
+		</Properties>
+	</Modifier>
+	<Modifier Name="lm_4_3" Type="Normal">
+		<DisplayName>lm_4_3</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="MaxAge" AddV="50000"/>                            <!-- 年龄 240000-->
+			<li Name="NpcLingMaxValue" AddP="10"/>                     	<!-- 灵气最大值 -->
+			<li Name="NpcFight_FabaoPowerAddP" AddP="10"/>             	<!-- 法宝威力-->
+			<li Name="NpcFight_FabaoLingRecoverAddP" AddP="10"/>       	<!-- 法宝灵气恢复 -->
+			<li Name="NpcFight_FabaoMaxLingAddP" AddP="10"/>           	<!-- 法宝灵气 -->
+			<li Name="NpcFight_ShieldConversionRateAddP" AddV="10"/>  	<!-- 法宝护盾 -->
+			<li Name="NpcFight_SpellPowerAddP" AddP="10"/>              <!-- 术法伤害 -->
+			<li Name="NpcFight_SpellLingCostAddP" AddP="1"/>            <!-- 术法灵气消耗 -->
+			<li Name="ToleranceTMin" AddV="-150"/>                      <!-- 最低极限温度 -->
+			<li Name="ComfyTMin" AddV="-70"/>							<!-- 最低舒适温度 -->
+			<li Name="ToleranceTMax" AddV="600"/>                       <!-- 最高极限温度 -->
+			<li Name="ComfyTMax" AddV="+300"/>							<!-- 最高舒适温度 -->
+			<li Name="FabaoMake_SuccessRateAddV" AddV="1"/>				<!-- 法宝炼制成功率 -->
+			<li Name="FabaoMake_LingInheritRateAddV" AddV="1"/>			<!-- 法宝炼制品阶 -->
+			<li Name="FabaoMake_QualityAddV" AddV="1"/>					<!-- 法宝炼制品质 -->
+			<li Name="FabaoMake_TwelveRateChance" AddV="0.1"/>			<!-- 神器炼制-->
+			<li Name="DanMake_Speed" AddV="1"/>							<!-- 炼丹速度-->
+			<li Name="DanMake_SuccessRate" AddV="1"/>					<!-- 炼丹速度-->
+			<li Name="NutritionToJingYuanK" AddV="1"/>					<!-- 获得精元率-->
+			<li Name="WorldMapFlySpeedAddP" AddV="10"/>                 <!-- 历练飞行速度 -->
+			<li Name="NutritionWaterAutoRecover" AddV="2"/>           	<!-- 饮气效率 -->
+		</Properties>
+	</Modifier>
+	<Modifier Name="lm_5_1" Type="Normal">
+		<DisplayName>lm_5_1</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="MaxAge" AddV="100000"/>                            <!-- 年龄 340000-->
+			<li Name="NpcLingMaxValue" AddP="10"/>                     	<!-- 灵气最大值 -->
+			<li Name="NpcFight_FabaoPowerAddP" AddP="10"/>             	<!-- 法宝威力-->
+			<li Name="NpcFight_FabaoLingRecoverAddP" AddP="10"/>       	<!-- 法宝灵气恢复 -->
+			<li Name="NpcFight_FabaoMaxLingAddP" AddP="10"/>           	<!-- 法宝灵气 -->
+			<li Name="NpcFight_ShieldConversionRateAddP" AddV="10"/>  	<!-- 法宝护盾 -->
+			<li Name="NpcFight_SpellPowerAddP" AddP="10"/>              <!-- 术法伤害 -->
+			<li Name="NpcFight_SpellLingCostAddP" AddP="1"/>            <!-- 术法灵气消耗 -->
+			<li Name="ToleranceTMin" AddV="-150"/>                      <!-- 最低极限温度 -->
+			<li Name="ComfyTMin" AddV="-70"/>							<!-- 最低舒适温度 -->
+			<li Name="ToleranceTMax" AddV="600"/>                       <!-- 最高极限温度 -->
+			<li Name="ComfyTMax" AddV="+300"/>							<!-- 最高舒适温度 -->
+			<li Name="FabaoMake_SuccessRateAddV" AddV="1"/>				<!-- 法宝炼制成功率 -->
+			<li Name="FabaoMake_LingInheritRateAddV" AddV="1"/>			<!-- 法宝炼制品阶 -->
+			<li Name="FabaoMake_QualityAddV" AddV="1"/>					<!-- 法宝炼制品质 -->
+			<li Name="FabaoMake_TwelveRateChance" AddV="0.1"/>			<!-- 神器炼制-->
+			<li Name="DanMake_Speed" AddV="1"/>							<!-- 炼丹速度-->
+			<li Name="DanMake_SuccessRate" AddV="1"/>					<!-- 炼丹速度-->
+			<li Name="NutritionToJingYuanK" AddV="1"/>					<!-- 获得精元率-->
+			<li Name="WorldMapFlySpeedAddP" AddV="10"/>                 <!-- 历练飞行速度 -->
+			<li Name="NutritionWaterAutoRecover" AddV="2"/>           	<!-- 饮气效率 -->
+		</Properties>
+	</Modifier>
+	<Modifier Name="lm_5_2" Type="Normal">
+		<DisplayName>lm_5_2</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="MaxAge" AddV="100000"/>                            <!-- 年龄 440000-->
+			<li Name="NpcLingMaxValue" AddP="10"/>                     	<!-- 灵气最大值 -->
+			<li Name="NpcFight_FabaoPowerAddP" AddP="10"/>             	<!-- 法宝威力-->
+			<li Name="NpcFight_FabaoLingRecoverAddP" AddP="10"/>       	<!-- 法宝灵气恢复 -->
+			<li Name="NpcFight_FabaoMaxLingAddP" AddP="10"/>           	<!-- 法宝灵气 -->
+			<li Name="NpcFight_ShieldConversionRateAddP" AddV="10"/>  	<!-- 法宝护盾 -->
+			<li Name="NpcFight_SpellPowerAddP" AddP="10"/>              <!-- 术法伤害 -->
+			<li Name="NpcFight_SpellLingCostAddP" AddP="1"/>            <!-- 术法灵气消耗 -->
+			<li Name="ToleranceTMin" AddV="-150"/>                      <!-- 最低极限温度 -->
+			<li Name="ComfyTMin" AddV="-70"/>							<!-- 最低舒适温度 -->
+			<li Name="ToleranceTMax" AddV="600"/>                       <!-- 最高极限温度 -->
+			<li Name="ComfyTMax" AddV="+300"/>							<!-- 最高舒适温度 -->
+			<li Name="FabaoMake_SuccessRateAddV" AddV="1"/>				<!-- 法宝炼制成功率 -->
+			<li Name="FabaoMake_LingInheritRateAddV" AddV="1"/>			<!-- 法宝炼制品阶 -->
+			<li Name="FabaoMake_QualityAddV" AddV="1"/>					<!-- 法宝炼制品质 -->
+			<li Name="FabaoMake_TwelveRateChance" AddV="0.1"/>			<!-- 神器炼制-->
+			<li Name="DanMake_Speed" AddV="1"/>							<!-- 炼丹速度-->
+			<li Name="DanMake_SuccessRate" AddV="1"/>					<!-- 炼丹速度-->
+			<li Name="NutritionToJingYuanK" AddV="1"/>					<!-- 获得精元率-->
+			<li Name="WorldMapFlySpeedAddP" AddV="10"/>                 <!-- 历练飞行速度 -->
+			<li Name="NutritionWaterAutoRecover" AddV="2"/>           	<!-- 饮气效率 -->
+		</Properties>
+	</Modifier>
+	<Modifier Name="lm_5_3" Type="Normal">
+		<DisplayName>lm_5_3</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="MaxAge" AddV="100000"/>                            <!-- 年龄 540000-->
+			<li Name="NpcLingMaxValue" AddP="10"/>                     	<!-- 灵气最大值 -->
+			<li Name="NpcFight_FabaoPowerAddP" AddP="10"/>             	<!-- 法宝威力-->
+			<li Name="NpcFight_FabaoLingRecoverAddP" AddP="10"/>       	<!-- 法宝灵气恢复 -->
+			<li Name="NpcFight_FabaoMaxLingAddP" AddP="10"/>           	<!-- 法宝灵气 -->
+			<li Name="NpcFight_ShieldConversionRateAddP" AddV="10"/>  	<!-- 法宝护盾 -->
+			<li Name="NpcFight_SpellPowerAddP" AddP="10"/>              <!-- 术法伤害 -->
+			<li Name="NpcFight_SpellLingCostAddP" AddP="1"/>            <!-- 术法灵气消耗 -->
+			<li Name="ToleranceTMin" AddV="-150"/>                      <!-- 最低极限温度 -->
+			<li Name="ComfyTMin" AddV="-70"/>							<!-- 最低舒适温度 -->
+			<li Name="ToleranceTMax" AddV="600"/>                       <!-- 最高极限温度 -->
+			<li Name="ComfyTMax" AddV="+300"/>							<!-- 最高舒适温度 -->
+			<li Name="FabaoMake_SuccessRateAddV" AddV="1"/>				<!-- 法宝炼制成功率 -->
+			<li Name="FabaoMake_LingInheritRateAddV" AddV="1"/>			<!-- 法宝炼制品阶 -->
+			<li Name="FabaoMake_QualityAddV" AddV="1"/>					<!-- 法宝炼制品质 -->
+			<li Name="FabaoMake_TwelveRateChance" AddV="0.1"/>			<!-- 神器炼制-->
+			<li Name="DanMake_Speed" AddV="1"/>							<!-- 炼丹速度-->
+			<li Name="DanMake_SuccessRate" AddV="1"/>					<!-- 炼丹速度-->
+			<li Name="NutritionToJingYuanK" AddV="1"/>					<!-- 获得精元率-->
+			<li Name="WorldMapFlySpeedAddP" AddV="10"/>                 <!-- 历练飞行速度 -->
+			<li Name="NutritionWaterAutoRecover" AddV="2"/>           	<!-- 饮气效率 -->
+		</Properties>
+	</Modifier>
+	<Modifier Name="lm_5_4" Type="Normal">
+		<DisplayName>lm_5_4</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="MaxAge" AddV="100000"/>                            <!-- 年龄 640000-->
+			<li Name="NpcLingMaxValue" AddP="10"/>                     	<!-- 灵气最大值 -->
+			<li Name="NpcFight_FabaoPowerAddP" AddP="10"/>             	<!-- 法宝威力-->
+			<li Name="NpcFight_FabaoLingRecoverAddP" AddP="10"/>       	<!-- 法宝灵气恢复 -->
+			<li Name="NpcFight_FabaoMaxLingAddP" AddP="10"/>           	<!-- 法宝灵气 -->
+			<li Name="NpcFight_ShieldConversionRateAddP" AddV="10"/>  	<!-- 法宝护盾 -->
+			<li Name="NpcFight_SpellPowerAddP" AddP="10"/>              <!-- 术法伤害 -->
+			<li Name="NpcFight_SpellLingCostAddP" AddP="1"/>            <!-- 术法灵气消耗 -->
+			<li Name="ToleranceTMin" AddV="-150"/>                      <!-- 最低极限温度 -->
+			<li Name="ComfyTMin" AddV="-70"/>							<!-- 最低舒适温度 -->
+			<li Name="ToleranceTMax" AddV="600"/>                       <!-- 最高极限温度 -->
+			<li Name="ComfyTMax" AddV="+300"/>							<!-- 最高舒适温度 -->
+			<li Name="FabaoMake_SuccessRateAddV" AddV="1"/>				<!-- 法宝炼制成功率 -->
+			<li Name="FabaoMake_LingInheritRateAddV" AddV="1"/>			<!-- 法宝炼制品阶 -->
+			<li Name="FabaoMake_QualityAddV" AddV="1"/>					<!-- 法宝炼制品质 -->
+			<li Name="FabaoMake_TwelveRateChance" AddV="0.1"/>			<!-- 神器炼制-->
+			<li Name="DanMake_Speed" AddV="1"/>							<!-- 炼丹速度-->
+			<li Name="DanMake_SuccessRate" AddV="1"/>					<!-- 炼丹速度-->
+			<li Name="NutritionToJingYuanK" AddV="1"/>					<!-- 获得精元率-->
+			<li Name="WorldMapFlySpeedAddP" AddV="10"/>                 <!-- 历练飞行速度 -->
+			<li Name="NutritionWaterAutoRecover" AddV="2"/>           	<!-- 饮气效率 -->
+		</Properties>
+	</Modifier>
+	<Modifier Name="lm_5_5" Type="Normal">
+		<DisplayName>lm_5_5</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="MaxAge" AddV="100000"/>                            <!-- 年龄 740000-->
+			<li Name="NpcLingMaxValue" AddP="10"/>                     	<!-- 灵气最大值 -->
+			<li Name="NpcFight_FabaoPowerAddP" AddP="10"/>             	<!-- 法宝威力-->
+			<li Name="NpcFight_FabaoLingRecoverAddP" AddP="10"/>       	<!-- 法宝灵气恢复 -->
+			<li Name="NpcFight_FabaoMaxLingAddP" AddP="10"/>           	<!-- 法宝灵气 -->
+			<li Name="NpcFight_ShieldConversionRateAddP" AddV="10"/>  	<!-- 法宝护盾 -->
+			<li Name="NpcFight_SpellPowerAddP" AddP="10"/>              <!-- 术法伤害 -->
+			<li Name="NpcFight_SpellLingCostAddP" AddP="1"/>            <!-- 术法灵气消耗 -->
+			<li Name="ToleranceTMin" AddV="-150"/>                      <!-- 最低极限温度 -->
+			<li Name="ComfyTMin" AddV="-70"/>							<!-- 最低舒适温度 -->
+			<li Name="ToleranceTMax" AddV="600"/>                       <!-- 最高极限温度 -->
+			<li Name="ComfyTMax" AddV="+300"/>							<!-- 最高舒适温度 -->
+			<li Name="FabaoMake_SuccessRateAddV" AddV="1"/>				<!-- 法宝炼制成功率 -->
+			<li Name="FabaoMake_LingInheritRateAddV" AddV="1"/>			<!-- 法宝炼制品阶 -->
+			<li Name="FabaoMake_QualityAddV" AddV="1"/>					<!-- 法宝炼制品质 -->
+			<li Name="FabaoMake_TwelveRateChance" AddV="0.1"/>			<!-- 神器炼制-->
+			<li Name="DanMake_Speed" AddV="1"/>							<!-- 炼丹速度-->
+			<li Name="DanMake_SuccessRate" AddV="1"/>					<!-- 炼丹速度-->
+			<li Name="NutritionToJingYuanK" AddV="1"/>					<!-- 获得精元率-->
+			<li Name="WorldMapFlySpeedAddP" AddV="10"/>                 <!-- 历练飞行速度 -->
+			<li Name="NutritionWaterAutoRecover" AddV="2"/>           	<!-- 饮气效率 -->
+		</Properties>
+	</Modifier>
+	<Modifier Name="lm_5_6" Type="Normal">
+		<DisplayName>lm_5_6</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="MaxAge" AddV="100000"/>                            <!-- 年龄 840000-->
+			<li Name="NpcLingMaxValue" AddP="10"/>                     	<!-- 灵气最大值 -->
+			<li Name="NpcFight_FabaoPowerAddP" AddP="10"/>             	<!-- 法宝威力-->
+			<li Name="NpcFight_FabaoLingRecoverAddP" AddP="10"/>       	<!-- 法宝灵气恢复 -->
+			<li Name="NpcFight_FabaoMaxLingAddP" AddP="10"/>           	<!-- 法宝灵气 -->
+			<li Name="NpcFight_ShieldConversionRateAddP" AddV="10"/>  	<!-- 法宝护盾 -->
+			<li Name="NpcFight_SpellPowerAddP" AddP="10"/>              <!-- 术法伤害 -->
+			<li Name="NpcFight_SpellLingCostAddP" AddP="1"/>            <!-- 术法灵气消耗 -->
+			<li Name="ToleranceTMin" AddV="-150"/>                      <!-- 最低极限温度 -->
+			<li Name="ComfyTMin" AddV="-70"/>							<!-- 最低舒适温度 -->
+			<li Name="ToleranceTMax" AddV="600"/>                       <!-- 最高极限温度 -->
+			<li Name="ComfyTMax" AddV="+300"/>							<!-- 最高舒适温度 -->
+			<li Name="FabaoMake_SuccessRateAddV" AddV="1"/>				<!-- 法宝炼制成功率 -->
+			<li Name="FabaoMake_LingInheritRateAddV" AddV="1"/>			<!-- 法宝炼制品阶 -->
+			<li Name="FabaoMake_QualityAddV" AddV="1"/>					<!-- 法宝炼制品质 -->
+			<li Name="FabaoMake_TwelveRateChance" AddV="0.1"/>			<!-- 神器炼制-->
+			<li Name="DanMake_Speed" AddV="1"/>							<!-- 炼丹速度-->
+			<li Name="DanMake_SuccessRate" AddV="1"/>					<!-- 炼丹速度-->
+			<li Name="NutritionToJingYuanK" AddV="1"/>					<!-- 获得精元率-->
+			<li Name="WorldMapFlySpeedAddP" AddV="10"/>                 <!-- 历练飞行速度 -->
+			<li Name="NutritionWaterAutoRecover" AddV="2"/>           	<!-- 饮气效率 -->
+		</Properties>
+	</Modifier>
+	<Modifier Name="lm_5_7" Type="Normal">
+		<DisplayName>lm_5_7</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="MaxAge" AddV="100000"/>                            <!-- 年龄 940000-->
+			<li Name="NpcLingMaxValue" AddP="10"/>                     	<!-- 灵气最大值 -->
+			<li Name="NpcFight_FabaoPowerAddP" AddP="10"/>             	<!-- 法宝威力-->
+			<li Name="NpcFight_FabaoLingRecoverAddP" AddP="10"/>       	<!-- 法宝灵气恢复 -->
+			<li Name="NpcFight_FabaoMaxLingAddP" AddP="10"/>           	<!-- 法宝灵气 -->
+			<li Name="NpcFight_ShieldConversionRateAddP" AddV="10"/>  	<!-- 法宝护盾 -->
+			<li Name="NpcFight_SpellPowerAddP" AddP="10"/>              <!-- 术法伤害 -->
+			<li Name="NpcFight_SpellLingCostAddP" AddP="1"/>            <!-- 术法灵气消耗 -->
+			<li Name="ToleranceTMin" AddV="-150"/>                      <!-- 最低极限温度 -->
+			<li Name="ComfyTMin" AddV="-70"/>							<!-- 最低舒适温度 -->
+			<li Name="ToleranceTMax" AddV="600"/>                       <!-- 最高极限温度 -->
+			<li Name="ComfyTMax" AddV="+300"/>							<!-- 最高舒适温度 -->
+			<li Name="FabaoMake_SuccessRateAddV" AddV="1"/>				<!-- 法宝炼制成功率 -->
+			<li Name="FabaoMake_LingInheritRateAddV" AddV="1"/>			<!-- 法宝炼制品阶 -->
+			<li Name="FabaoMake_QualityAddV" AddV="1"/>					<!-- 法宝炼制品质 -->
+			<li Name="FabaoMake_TwelveRateChance" AddV="0.1"/>			<!-- 神器炼制-->
+			<li Name="DanMake_Speed" AddV="1"/>							<!-- 炼丹速度-->
+			<li Name="DanMake_SuccessRate" AddV="1"/>					<!-- 炼丹速度-->
+			<li Name="NutritionToJingYuanK" AddV="1"/>					<!-- 获得精元率-->
+			<li Name="WorldMapFlySpeedAddP" AddV="10"/>                 <!-- 历练飞行速度 -->
+			<li Name="NutritionWaterAutoRecover" AddV="2"/>           	<!-- 饮气效率 -->
+		</Properties>
+	</Modifier>
+	<Modifier Name="lm_5_8" Type="Normal">
+		<DisplayName>lm_5_8</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="MaxAge" AddV="100000"/>                            <!-- 年龄 1040000-->
+			<li Name="NpcLingMaxValue" AddP="10"/>                     	<!-- 灵气最大值 -->
+			<li Name="NpcFight_FabaoPowerAddP" AddP="10"/>             	<!-- 法宝威力-->
+			<li Name="NpcFight_FabaoLingRecoverAddP" AddP="10"/>       	<!-- 法宝灵气恢复 -->
+			<li Name="NpcFight_FabaoMaxLingAddP" AddP="10"/>           	<!-- 法宝灵气 -->
+			<li Name="NpcFight_ShieldConversionRateAddP" AddV="10"/>  	<!-- 法宝护盾 -->
+			<li Name="NpcFight_SpellPowerAddP" AddP="10"/>              <!-- 术法伤害 -->
+			<li Name="NpcFight_SpellLingCostAddP" AddP="1"/>            <!-- 术法灵气消耗 -->
+			<li Name="ToleranceTMin" AddV="-150"/>                      <!-- 最低极限温度 -->
+			<li Name="ComfyTMin" AddV="-70"/>							<!-- 最低舒适温度 -->
+			<li Name="ToleranceTMax" AddV="600"/>                       <!-- 最高极限温度 -->
+			<li Name="ComfyTMax" AddV="+300"/>							<!-- 最高舒适温度 -->
+			<li Name="FabaoMake_SuccessRateAddV" AddV="1"/>				<!-- 法宝炼制成功率 -->
+			<li Name="FabaoMake_LingInheritRateAddV" AddV="1"/>			<!-- 法宝炼制品阶 -->
+			<li Name="FabaoMake_QualityAddV" AddV="1"/>					<!-- 法宝炼制品质 -->
+			<li Name="FabaoMake_TwelveRateChance" AddV="0.1"/>			<!-- 神器炼制-->
+			<li Name="DanMake_Speed" AddV="1"/>							<!-- 炼丹速度-->
+			<li Name="DanMake_SuccessRate" AddV="1"/>					<!-- 炼丹速度-->
+			<li Name="NutritionToJingYuanK" AddV="1"/>					<!-- 获得精元率-->
+			<li Name="WorldMapFlySpeedAddP" AddV="10"/>                 <!-- 历练飞行速度 -->
+			<li Name="NutritionWaterAutoRecover" AddV="2"/>           	<!-- 饮气效率 -->
+		</Properties>
+	</Modifier>
+	<Modifier Name="lm_5_9" Type="Normal">
+		<DisplayName>lm_5_9</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="MaxAge" AddV="100000"/>                            <!-- 年龄 1140000-->
+			<li Name="NpcLingMaxValue" AddP="10"/>                     	<!-- 灵气最大值 -->
+			<li Name="NpcFight_FabaoPowerAddP" AddP="10"/>             	<!-- 法宝威力-->
+			<li Name="NpcFight_FabaoLingRecoverAddP" AddP="10"/>       	<!-- 法宝灵气恢复 -->
+			<li Name="NpcFight_FabaoMaxLingAddP" AddP="10"/>           	<!-- 法宝灵气 -->
+			<li Name="NpcFight_ShieldConversionRateAddP" AddV="10"/>  	<!-- 法宝护盾 -->
+			<li Name="NpcFight_SpellPowerAddP" AddP="10"/>              <!-- 术法伤害 -->
+			<li Name="NpcFight_SpellLingCostAddP" AddP="1"/>            <!-- 术法灵气消耗 -->
+			<li Name="ToleranceTMin" AddV="-150"/>                      <!-- 最低极限温度 -->
+			<li Name="ComfyTMin" AddV="-70"/>							<!-- 最低舒适温度 -->
+			<li Name="ToleranceTMax" AddV="600"/>                       <!-- 最高极限温度 -->
+			<li Name="ComfyTMax" AddV="+300"/>							<!-- 最高舒适温度 -->
+			<li Name="FabaoMake_SuccessRateAddV" AddV="1"/>				<!-- 法宝炼制成功率 -->
+			<li Name="FabaoMake_LingInheritRateAddV" AddV="1"/>			<!-- 法宝炼制品阶 -->
+			<li Name="FabaoMake_QualityAddV" AddV="1"/>					<!-- 法宝炼制品质 -->
+			<li Name="FabaoMake_TwelveRateChance" AddV="0.1"/>			<!-- 神器炼制-->
+			<li Name="DanMake_Speed" AddV="1"/>							<!-- 炼丹速度-->
+			<li Name="DanMake_SuccessRate" AddV="1"/>					<!-- 炼丹速度-->
+			<li Name="NutritionToJingYuanK" AddV="1"/>					<!-- 获得精元率-->
+			<li Name="WorldMapFlySpeedAddP" AddV="10"/>                 <!-- 历练飞行速度 -->
+			<li Name="NutritionWaterAutoRecover" AddV="2"/>           	<!-- 饮气效率 -->
+		</Properties>
+	</Modifier>
+	<Modifier Name="lm_6_1" Type="Normal">
+		<DisplayName>lm_6_1</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="MaxAge" AddV="100000"/>                            <!-- 年龄 1240000-->
+			<li Name="NpcLingMaxValue" AddP="10"/>                     	<!-- 灵气最大值 -->
+			<li Name="NpcFight_FabaoPowerAddP" AddP="10"/>             	<!-- 法宝威力-->
+			<li Name="NpcFight_FabaoLingRecoverAddP" AddP="10"/>       	<!-- 法宝灵气恢复 -->
+			<li Name="NpcFight_FabaoMaxLingAddP" AddP="10"/>           	<!-- 法宝灵气 -->
+			<li Name="NpcFight_ShieldConversionRateAddP" AddV="10"/>  	<!-- 法宝护盾 -->
+			<li Name="NpcFight_SpellPowerAddP" AddP="10"/>              <!-- 术法伤害 -->
+			<li Name="NpcFight_SpellLingCostAddP" AddP="1"/>            <!-- 术法灵气消耗 -->
+			<li Name="ToleranceTMin" AddV="-150"/>                      <!-- 最低极限温度 -->
+			<li Name="ComfyTMin" AddV="-70"/>							<!-- 最低舒适温度 -->
+			<li Name="ToleranceTMax" AddV="600"/>                       <!-- 最高极限温度 -->
+			<li Name="ComfyTMax" AddV="+300"/>							<!-- 最高舒适温度 -->
+			<li Name="FabaoMake_SuccessRateAddV" AddV="1"/>				<!-- 法宝炼制成功率 -->
+			<li Name="FabaoMake_LingInheritRateAddV" AddV="1"/>			<!-- 法宝炼制品阶 -->
+			<li Name="FabaoMake_QualityAddV" AddV="1"/>					<!-- 法宝炼制品质 -->
+			<li Name="FabaoMake_TwelveRateChance" AddV="0.1"/>			<!-- 神器炼制-->
+			<li Name="DanMake_Speed" AddV="1"/>							<!-- 炼丹速度-->
+			<li Name="DanMake_SuccessRate" AddV="1"/>					<!-- 炼丹速度-->
+			<li Name="NutritionToJingYuanK" AddV="1"/>					<!-- 获得精元率-->
+			<li Name="WorldMapFlySpeedAddP" AddV="10"/>                 <!-- 历练飞行速度 -->
+			<li Name="NutritionWaterAutoRecover" AddV="2"/>           	<!-- 饮气效率 -->
+		</Properties>
+	</Modifier>
+	<Modifier Name="lm_6_2" Type="Normal">
+		<DisplayName>lm_6_2</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="MaxAge" AddV="100000"/>                            <!-- 年龄 1340000-->
+			<li Name="NpcLingMaxValue" AddP="10"/>                     	<!-- 灵气最大值 -->
+			<li Name="NpcFight_FabaoPowerAddP" AddP="10"/>             	<!-- 法宝威力-->
+			<li Name="NpcFight_FabaoLingRecoverAddP" AddP="10"/>       	<!-- 法宝灵气恢复 -->
+			<li Name="NpcFight_FabaoMaxLingAddP" AddP="10"/>           	<!-- 法宝灵气 -->
+			<li Name="NpcFight_ShieldConversionRateAddP" AddV="10"/>  	<!-- 法宝护盾 -->
+			<li Name="NpcFight_SpellPowerAddP" AddP="10"/>              <!-- 术法伤害 -->
+			<li Name="NpcFight_SpellLingCostAddP" AddP="1"/>            <!-- 术法灵气消耗 -->
+			<li Name="ToleranceTMin" AddV="-150"/>                      <!-- 最低极限温度 -->
+			<li Name="ComfyTMin" AddV="-70"/>							<!-- 最低舒适温度 -->
+			<li Name="ToleranceTMax" AddV="600"/>                       <!-- 最高极限温度 -->
+			<li Name="ComfyTMax" AddV="+300"/>							<!-- 最高舒适温度 -->
+			<li Name="FabaoMake_SuccessRateAddV" AddV="1"/>				<!-- 法宝炼制成功率 -->
+			<li Name="FabaoMake_LingInheritRateAddV" AddV="1"/>			<!-- 法宝炼制品阶 -->
+			<li Name="FabaoMake_QualityAddV" AddV="1"/>					<!-- 法宝炼制品质 -->
+			<li Name="FabaoMake_TwelveRateChance" AddV="0.1"/>			<!-- 神器炼制-->
+			<li Name="DanMake_Speed" AddV="1"/>							<!-- 炼丹速度-->
+			<li Name="DanMake_SuccessRate" AddV="1"/>					<!-- 炼丹速度-->
+			<li Name="NutritionToJingYuanK" AddV="1"/>					<!-- 获得精元率-->
+			<li Name="WorldMapFlySpeedAddP" AddV="10"/>                 <!-- 历练飞行速度 -->
+			<li Name="NutritionWaterAutoRecover" AddV="2"/>           	<!-- 饮气效率 -->
+		</Properties>
+	</Modifier>
+	<Modifier Name="lm_6_3" Type="Normal">
+		<DisplayName>lm_6_3</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="MaxAge" AddV="100000"/>                            <!-- 年龄 1440000-->
+			<li Name="NpcLingMaxValue" AddP="10"/>                     	<!-- 灵气最大值 -->
+			<li Name="NpcFight_FabaoPowerAddP" AddP="10"/>             	<!-- 法宝威力-->
+			<li Name="NpcFight_FabaoLingRecoverAddP" AddP="10"/>       	<!-- 法宝灵气恢复 -->
+			<li Name="NpcFight_FabaoMaxLingAddP" AddP="10"/>           	<!-- 法宝灵气 -->
+			<li Name="NpcFight_ShieldConversionRateAddP" AddV="10"/>  	<!-- 法宝护盾 -->
+			<li Name="NpcFight_SpellPowerAddP" AddP="10"/>              <!-- 术法伤害 -->
+			<li Name="NpcFight_SpellLingCostAddP" AddP="1"/>            <!-- 术法灵气消耗 -->
+			<li Name="ToleranceTMin" AddV="-150"/>                      <!-- 最低极限温度 -->
+			<li Name="ComfyTMin" AddV="-70"/>							<!-- 最低舒适温度 -->
+			<li Name="ToleranceTMax" AddV="600"/>                       <!-- 最高极限温度 -->
+			<li Name="ComfyTMax" AddV="+300"/>							<!-- 最高舒适温度 -->
+			<li Name="FabaoMake_SuccessRateAddV" AddV="1"/>				<!-- 法宝炼制成功率 -->
+			<li Name="FabaoMake_LingInheritRateAddV" AddV="1"/>			<!-- 法宝炼制品阶 -->
+			<li Name="FabaoMake_QualityAddV" AddV="1"/>					<!-- 法宝炼制品质 -->
+			<li Name="FabaoMake_TwelveRateChance" AddV="0.1"/>			<!-- 神器炼制-->
+			<li Name="DanMake_Speed" AddV="1"/>							<!-- 炼丹速度-->
+			<li Name="DanMake_SuccessRate" AddV="1"/>					<!-- 炼丹速度-->
+			<li Name="NutritionToJingYuanK" AddV="1"/>					<!-- 获得精元率-->
+			<li Name="WorldMapFlySpeedAddP" AddV="10"/>                 <!-- 历练飞行速度 -->
+			<li Name="NutritionWaterAutoRecover" AddV="2"/>           	<!-- 饮气效率 -->
+		</Properties>
+	</Modifier>
+	<Modifier Name="lm_6_4" Type="Normal">
+		<DisplayName>lm_6_4</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="MaxAge" AddV="100000"/>                            <!-- 年龄 1540000-->
+			<li Name="NpcLingMaxValue" AddP="10"/>                     	<!-- 灵气最大值 -->
+			<li Name="NpcFight_FabaoPowerAddP" AddP="10"/>             	<!-- 法宝威力-->
+			<li Name="NpcFight_FabaoLingRecoverAddP" AddP="10"/>       	<!-- 法宝灵气恢复 -->
+			<li Name="NpcFight_FabaoMaxLingAddP" AddP="10"/>           	<!-- 法宝灵气 -->
+			<li Name="NpcFight_ShieldConversionRateAddP" AddV="10"/>  	<!-- 法宝护盾 -->
+			<li Name="NpcFight_SpellPowerAddP" AddP="10"/>              <!-- 术法伤害 -->
+			<li Name="NpcFight_SpellLingCostAddP" AddP="1"/>            <!-- 术法灵气消耗 -->
+			<li Name="ToleranceTMin" AddV="-150"/>                      <!-- 最低极限温度 -->
+			<li Name="ComfyTMin" AddV="-70"/>							<!-- 最低舒适温度 -->
+			<li Name="ToleranceTMax" AddV="600"/>                       <!-- 最高极限温度 -->
+			<li Name="ComfyTMax" AddV="+300"/>							<!-- 最高舒适温度 -->
+			<li Name="FabaoMake_SuccessRateAddV" AddV="1"/>				<!-- 法宝炼制成功率 -->
+			<li Name="FabaoMake_LingInheritRateAddV" AddV="1"/>			<!-- 法宝炼制品阶 -->
+			<li Name="FabaoMake_QualityAddV" AddV="1"/>					<!-- 法宝炼制品质 -->
+			<li Name="FabaoMake_TwelveRateChance" AddV="0.1"/>			<!-- 神器炼制-->
+			<li Name="DanMake_Speed" AddV="1"/>							<!-- 炼丹速度-->
+			<li Name="DanMake_SuccessRate" AddV="1"/>					<!-- 炼丹速度-->
+			<li Name="NutritionToJingYuanK" AddV="1"/>					<!-- 获得精元率-->
+			<li Name="WorldMapFlySpeedAddP" AddV="10"/>                 <!-- 历练飞行速度 -->
+			<li Name="NutritionWaterAutoRecover" AddV="2"/>           	<!-- 饮气效率 -->
+		</Properties>
+	</Modifier>
+	<Modifier Name="lm_6_5" Type="Normal">
+		<DisplayName>lm_6_5</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="MaxAge" AddV="100000"/>                            <!-- 年龄 1640000-->
+			<li Name="NpcLingMaxValue" AddP="10"/>                     	<!-- 灵气最大值 -->
+			<li Name="NpcFight_FabaoPowerAddP" AddP="10"/>             	<!-- 法宝威力-->
+			<li Name="NpcFight_FabaoLingRecoverAddP" AddP="10"/>       	<!-- 法宝灵气恢复 -->
+			<li Name="NpcFight_FabaoMaxLingAddP" AddP="10"/>           	<!-- 法宝灵气 -->
+			<li Name="NpcFight_ShieldConversionRateAddP" AddV="10"/>  	<!-- 法宝护盾 -->
+			<li Name="NpcFight_SpellPowerAddP" AddP="10"/>              <!-- 术法伤害 -->
+			<li Name="NpcFight_SpellLingCostAddP" AddP="1"/>            <!-- 术法灵气消耗 -->
+			<li Name="ToleranceTMin" AddV="-150"/>                      <!-- 最低极限温度 -->
+			<li Name="ComfyTMin" AddV="-70"/>							<!-- 最低舒适温度 -->
+			<li Name="ToleranceTMax" AddV="600"/>                       <!-- 最高极限温度 -->
+			<li Name="ComfyTMax" AddV="+300"/>							<!-- 最高舒适温度 -->
+			<li Name="FabaoMake_SuccessRateAddV" AddV="1"/>				<!-- 法宝炼制成功率 -->
+			<li Name="FabaoMake_LingInheritRateAddV" AddV="1"/>			<!-- 法宝炼制品阶 -->
+			<li Name="FabaoMake_QualityAddV" AddV="1"/>					<!-- 法宝炼制品质 -->
+			<li Name="FabaoMake_TwelveRateChance" AddV="0.1"/>			<!-- 神器炼制-->
+			<li Name="DanMake_Speed" AddV="1"/>							<!-- 炼丹速度-->
+			<li Name="DanMake_SuccessRate" AddV="1"/>					<!-- 炼丹速度-->
+			<li Name="NutritionToJingYuanK" AddV="1"/>					<!-- 获得精元率-->
+			<li Name="WorldMapFlySpeedAddP" AddV="10"/>                 <!-- 历练飞行速度 -->
+			<li Name="NutritionWaterAutoRecover" AddV="2"/>           	<!-- 饮气效率 -->
+		</Properties>
+	</Modifier>
+	<Modifier Name="lm_6_6" Type="Normal">
+		<DisplayName>lm_6_6</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="MaxAge" AddV="100000"/>                            <!-- 年龄 1740000-->
+			<li Name="NpcLingMaxValue" AddP="10"/>                     	<!-- 灵气最大值 -->
+			<li Name="NpcFight_FabaoPowerAddP" AddP="10"/>             	<!-- 法宝威力-->
+			<li Name="NpcFight_FabaoLingRecoverAddP" AddP="10"/>       	<!-- 法宝灵气恢复 -->
+			<li Name="NpcFight_FabaoMaxLingAddP" AddP="10"/>           	<!-- 法宝灵气 -->
+			<li Name="NpcFight_ShieldConversionRateAddP" AddV="10"/>  	<!-- 法宝护盾 -->
+			<li Name="NpcFight_SpellPowerAddP" AddP="10"/>              <!-- 术法伤害 -->
+			<li Name="NpcFight_SpellLingCostAddP" AddP="1"/>            <!-- 术法灵气消耗 -->
+			<li Name="ToleranceTMin" AddV="-150"/>                      <!-- 最低极限温度 -->
+			<li Name="ComfyTMin" AddV="-70"/>							<!-- 最低舒适温度 -->
+			<li Name="ToleranceTMax" AddV="600"/>                       <!-- 最高极限温度 -->
+			<li Name="ComfyTMax" AddV="+300"/>							<!-- 最高舒适温度 -->
+			<li Name="FabaoMake_SuccessRateAddV" AddV="1"/>				<!-- 法宝炼制成功率 -->
+			<li Name="FabaoMake_LingInheritRateAddV" AddV="1"/>			<!-- 法宝炼制品阶 -->
+			<li Name="FabaoMake_QualityAddV" AddV="1"/>					<!-- 法宝炼制品质 -->
+			<li Name="FabaoMake_TwelveRateChance" AddV="0.1"/>			<!-- 神器炼制-->
+			<li Name="DanMake_Speed" AddV="1"/>							<!-- 炼丹速度-->
+			<li Name="DanMake_SuccessRate" AddV="1"/>					<!-- 炼丹速度-->
+			<li Name="NutritionToJingYuanK" AddV="1"/>					<!-- 获得精元率-->
+			<li Name="WorldMapFlySpeedAddP" AddV="10"/>                 <!-- 历练飞行速度 -->
+			<li Name="NutritionWaterAutoRecover" AddV="2"/>           	<!-- 饮气效率 -->
+		</Properties>
+	</Modifier>
+	<Modifier Name="lm_7_1" Type="Normal">
+		<DisplayName>lm_7_1</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="MaxAge" AddV="260000"/>                            <!-- 年龄 2000000-->
+			<li Name="NpcLingMaxValue" AddP="10"/>                     	<!-- 灵气最大值 -->
+			<li Name="NpcFight_FabaoPowerAddP" AddP="10"/>             	<!-- 法宝威力-->
+			<li Name="NpcFight_FabaoLingRecoverAddP" AddP="10"/>       	<!-- 法宝灵气恢复 -->
+			<li Name="NpcFight_FabaoMaxLingAddP" AddP="10"/>           	<!-- 法宝灵气 -->
+			<li Name="NpcFight_ShieldConversionRateAddP" AddV="10"/>  	<!-- 法宝护盾 -->
+			<li Name="NpcFight_SpellPowerAddP" AddP="10"/>              <!-- 术法伤害 -->
+			<li Name="NpcFight_SpellLingCostAddP" AddP="1"/>            <!-- 术法灵气消耗 -->
+			<li Name="ToleranceTMin" AddV="-150"/>                      <!-- 最低极限温度 -->
+			<li Name="ComfyTMin" AddV="-70"/>							<!-- 最低舒适温度 -->
+			<li Name="ToleranceTMax" AddV="600"/>                       <!-- 最高极限温度 -->
+			<li Name="ComfyTMax" AddV="+300"/>							<!-- 最高舒适温度 -->
+			<li Name="FabaoMake_SuccessRateAddV" AddV="1"/>				<!-- 法宝炼制成功率 -->
+			<li Name="FabaoMake_LingInheritRateAddV" AddV="1"/>			<!-- 法宝炼制品阶 -->
+			<li Name="FabaoMake_QualityAddV" AddV="1"/>					<!-- 法宝炼制品质 -->
+			<li Name="FabaoMake_TwelveRateChance" AddV="0.1"/>			<!-- 神器炼制-->
+			<li Name="DanMake_Speed" AddV="1"/>							<!-- 炼丹速度-->
+			<li Name="DanMake_SuccessRate" AddV="1"/>					<!-- 炼丹速度-->
+			<li Name="NutritionToJingYuanK" AddV="1"/>					<!-- 获得精元率-->
+			<li Name="WorldMapFlySpeedAddP" AddV="10"/>                 <!-- 历练飞行速度 -->
+			<li Name="NutritionWaterAutoRecover" AddV="2"/>           	<!-- 饮气效率 -->
+		</Properties>
+	</Modifier>
+	<Modifier Name="lm_7_2" Type="Normal">
+		<DisplayName>lm_7_2</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="MaxAge" AddV="1000000"/>                            <!-- 年龄 3000000-->
+			<li Name="NpcLingMaxValue" AddP="10"/>                     	<!-- 灵气最大值 -->
+			<li Name="NpcFight_FabaoPowerAddP" AddP="10"/>             	<!-- 法宝威力-->
+			<li Name="NpcFight_FabaoLingRecoverAddP" AddP="10"/>       	<!-- 法宝灵气恢复 -->
+			<li Name="NpcFight_FabaoMaxLingAddP" AddP="10"/>           	<!-- 法宝灵气 -->
+			<li Name="NpcFight_ShieldConversionRateAddP" AddV="10"/>  	<!-- 法宝护盾 -->
+			<li Name="NpcFight_SpellPowerAddP" AddP="10"/>              <!-- 术法伤害 -->
+			<li Name="NpcFight_SpellLingCostAddP" AddP="1"/>            <!-- 术法灵气消耗 -->
+			<li Name="ToleranceTMin" AddV="-150"/>                      <!-- 最低极限温度 -->
+			<li Name="ComfyTMin" AddV="-70"/>							<!-- 最低舒适温度 -->
+			<li Name="ToleranceTMax" AddV="600"/>                       <!-- 最高极限温度 -->
+			<li Name="ComfyTMax" AddV="+300"/>							<!-- 最高舒适温度 -->
+			<li Name="FabaoMake_SuccessRateAddV" AddV="1"/>				<!-- 法宝炼制成功率 -->
+			<li Name="FabaoMake_LingInheritRateAddV" AddV="1"/>			<!-- 法宝炼制品阶 -->
+			<li Name="FabaoMake_QualityAddV" AddV="1"/>					<!-- 法宝炼制品质 -->
+			<li Name="FabaoMake_TwelveRateChance" AddV="0.1"/>			<!-- 神器炼制-->
+			<li Name="DanMake_Speed" AddV="1"/>							<!-- 炼丹速度-->
+			<li Name="DanMake_SuccessRate" AddV="1"/>					<!-- 炼丹速度-->
+			<li Name="NutritionToJingYuanK" AddV="1"/>					<!-- 获得精元率-->
+			<li Name="WorldMapFlySpeedAddP" AddV="10"/>                 <!-- 历练飞行速度 -->
+			<li Name="NutritionWaterAutoRecover" AddV="2"/>           	<!-- 饮气效率 -->
+		</Properties>
+	</Modifier>
+	<Modifier Name="lm_7_3" Type="Normal">
+		<DisplayName>lm_7_3</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="MaxAge" AddV="1000000"/>                            <!-- 年龄 4000000-->
+			<li Name="NpcLingMaxValue" AddP="10"/>                     	<!-- 灵气最大值 -->
+			<li Name="NpcFight_FabaoPowerAddP" AddP="10"/>             	<!-- 法宝威力-->
+			<li Name="NpcFight_FabaoLingRecoverAddP" AddP="10"/>       	<!-- 法宝灵气恢复 -->
+			<li Name="NpcFight_FabaoMaxLingAddP" AddP="10"/>           	<!-- 法宝灵气 -->
+			<li Name="NpcFight_ShieldConversionRateAddP" AddV="10"/>  	<!-- 法宝护盾 -->
+			<li Name="NpcFight_SpellPowerAddP" AddP="10"/>              <!-- 术法伤害 -->
+			<li Name="NpcFight_SpellLingCostAddP" AddP="1"/>            <!-- 术法灵气消耗 -->
+			<li Name="ToleranceTMin" AddV="-150"/>                      <!-- 最低极限温度 -->
+			<li Name="ComfyTMin" AddV="-70"/>							<!-- 最低舒适温度 -->
+			<li Name="ToleranceTMax" AddV="600"/>                       <!-- 最高极限温度 -->
+			<li Name="ComfyTMax" AddV="+300"/>							<!-- 最高舒适温度 -->
+			<li Name="FabaoMake_SuccessRateAddV" AddV="1"/>				<!-- 法宝炼制成功率 -->
+			<li Name="FabaoMake_LingInheritRateAddV" AddV="1"/>			<!-- 法宝炼制品阶 -->
+			<li Name="FabaoMake_QualityAddV" AddV="1"/>					<!-- 法宝炼制品质 -->
+			<li Name="FabaoMake_TwelveRateChance" AddV="0.1"/>			<!-- 神器炼制-->
+			<li Name="DanMake_Speed" AddV="1"/>							<!-- 炼丹速度-->
+			<li Name="DanMake_SuccessRate" AddV="1"/>					<!-- 炼丹速度-->
+			<li Name="NutritionToJingYuanK" AddV="1"/>					<!-- 获得精元率-->
+			<li Name="WorldMapFlySpeedAddP" AddV="10"/>                 <!-- 历练飞行速度 -->
+			<li Name="NutritionWaterAutoRecover" AddV="2"/>           	<!-- 饮气效率 -->
+		</Properties>
+	</Modifier>
+	<Modifier Name="lm_7_4" Type="Normal">
+		<DisplayName>lm_7_4</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="MaxAge" AddV="1000000"/>                            <!-- 年龄 5000000-->
+			<li Name="NpcLingMaxValue" AddP="10"/>                     	<!-- 灵气最大值 -->
+			<li Name="NpcFight_FabaoPowerAddP" AddP="10"/>             	<!-- 法宝威力-->
+			<li Name="NpcFight_FabaoLingRecoverAddP" AddP="10"/>       	<!-- 法宝灵气恢复 -->
+			<li Name="NpcFight_FabaoMaxLingAddP" AddP="10"/>           	<!-- 法宝灵气 -->
+			<li Name="NpcFight_ShieldConversionRateAddP" AddV="10"/>  	<!-- 法宝护盾 -->
+			<li Name="NpcFight_SpellPowerAddP" AddP="10"/>              <!-- 术法伤害 -->
+			<li Name="NpcFight_SpellLingCostAddP" AddP="1"/>            <!-- 术法灵气消耗 -->
+			<li Name="ToleranceTMin" AddV="-150"/>                      <!-- 最低极限温度 -->
+			<li Name="ComfyTMin" AddV="-70"/>							<!-- 最低舒适温度 -->
+			<li Name="ToleranceTMax" AddV="600"/>                       <!-- 最高极限温度 -->
+			<li Name="ComfyTMax" AddV="+300"/>							<!-- 最高舒适温度 -->
+			<li Name="FabaoMake_SuccessRateAddV" AddV="1"/>				<!-- 法宝炼制成功率 -->
+			<li Name="FabaoMake_LingInheritRateAddV" AddV="1"/>			<!-- 法宝炼制品阶 -->
+			<li Name="FabaoMake_QualityAddV" AddV="1"/>					<!-- 法宝炼制品质 -->
+			<li Name="FabaoMake_TwelveRateChance" AddV="0.1"/>			<!-- 神器炼制-->
+			<li Name="DanMake_Speed" AddV="1"/>							<!-- 炼丹速度-->
+			<li Name="DanMake_SuccessRate" AddV="1"/>					<!-- 炼丹速度-->
+			<li Name="NutritionToJingYuanK" AddV="1"/>					<!-- 获得精元率-->
+			<li Name="WorldMapFlySpeedAddP" AddV="10"/>                 <!-- 历练飞行速度 -->
+			<li Name="NutritionWaterAutoRecover" AddV="2"/>           	<!-- 饮气效率 -->
+		</Properties>
+	</Modifier>
+	<Modifier Name="lm_7_5" Type="Normal">
+		<DisplayName>lm_7_5</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="MaxAge" AddV="1000000"/>                            <!-- 年龄 6000000-->
+			<li Name="NpcLingMaxValue" AddP="10"/>                     	<!-- 灵气最大值 -->
+			<li Name="NpcFight_FabaoPowerAddP" AddP="10"/>             	<!-- 法宝威力-->
+			<li Name="NpcFight_FabaoLingRecoverAddP" AddP="10"/>       	<!-- 法宝灵气恢复 -->
+			<li Name="NpcFight_FabaoMaxLingAddP" AddP="10"/>           	<!-- 法宝灵气 -->
+			<li Name="NpcFight_ShieldConversionRateAddP" AddV="10"/>  	<!-- 法宝护盾 -->
+			<li Name="NpcFight_SpellPowerAddP" AddP="10"/>              <!-- 术法伤害 -->
+			<li Name="NpcFight_SpellLingCostAddP" AddP="1"/>            <!-- 术法灵气消耗 -->
+			<li Name="ToleranceTMin" AddV="-150"/>                      <!-- 最低极限温度 -->
+			<li Name="ComfyTMin" AddV="-70"/>							<!-- 最低舒适温度 -->
+			<li Name="ToleranceTMax" AddV="600"/>                       <!-- 最高极限温度 -->
+			<li Name="ComfyTMax" AddV="+300"/>							<!-- 最高舒适温度 -->
+			<li Name="FabaoMake_SuccessRateAddV" AddV="1"/>				<!-- 法宝炼制成功率 -->
+			<li Name="FabaoMake_LingInheritRateAddV" AddV="1"/>			<!-- 法宝炼制品阶 -->
+			<li Name="FabaoMake_QualityAddV" AddV="1"/>					<!-- 法宝炼制品质 -->
+			<li Name="FabaoMake_TwelveRateChance" AddV="0.1"/>			<!-- 神器炼制-->
+			<li Name="DanMake_Speed" AddV="1"/>							<!-- 炼丹速度-->
+			<li Name="DanMake_SuccessRate" AddV="1"/>					<!-- 炼丹速度-->
+			<li Name="NutritionToJingYuanK" AddV="1"/>					<!-- 获得精元率-->
+			<li Name="WorldMapFlySpeedAddP" AddV="10"/>                 <!-- 历练飞行速度 -->
+			<li Name="NutritionWaterAutoRecover" AddV="2"/>           	<!-- 饮气效率 -->
+		</Properties>
+	</Modifier>
+	<Modifier Name="lm_7_6" Type="Normal">
+		<DisplayName>lm_7_6</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="MaxAge" AddV="1000000"/>                            <!-- 年龄 7000000-->
+			<li Name="NpcLingMaxValue" AddP="10"/>                     	<!-- 灵气最大值 -->
+			<li Name="NpcFight_FabaoPowerAddP" AddP="10"/>             	<!-- 法宝威力-->
+			<li Name="NpcFight_FabaoLingRecoverAddP" AddP="10"/>       	<!-- 法宝灵气恢复 -->
+			<li Name="NpcFight_FabaoMaxLingAddP" AddP="10"/>           	<!-- 法宝灵气 -->
+			<li Name="NpcFight_ShieldConversionRateAddP" AddV="10"/>  	<!-- 法宝护盾 -->
+			<li Name="NpcFight_SpellPowerAddP" AddP="10"/>              <!-- 术法伤害 -->
+			<li Name="NpcFight_SpellLingCostAddP" AddP="1"/>            <!-- 术法灵气消耗 -->
+			<li Name="ToleranceTMin" AddV="-150"/>                      <!-- 最低极限温度 -->
+			<li Name="ComfyTMin" AddV="-70"/>							<!-- 最低舒适温度 -->
+			<li Name="ToleranceTMax" AddV="600"/>                       <!-- 最高极限温度 -->
+			<li Name="ComfyTMax" AddV="+300"/>							<!-- 最高舒适温度 -->
+			<li Name="FabaoMake_SuccessRateAddV" AddV="1"/>				<!-- 法宝炼制成功率 -->
+			<li Name="FabaoMake_LingInheritRateAddV" AddV="1"/>			<!-- 法宝炼制品阶 -->
+			<li Name="FabaoMake_QualityAddV" AddV="1"/>					<!-- 法宝炼制品质 -->
+			<li Name="FabaoMake_TwelveRateChance" AddV="0.1"/>			<!-- 神器炼制-->
+			<li Name="DanMake_Speed" AddV="1"/>							<!-- 炼丹速度-->
+			<li Name="DanMake_SuccessRate" AddV="1"/>					<!-- 炼丹速度-->
+			<li Name="NutritionToJingYuanK" AddV="1"/>					<!-- 获得精元率-->
+			<li Name="WorldMapFlySpeedAddP" AddV="10"/>                 <!-- 历练飞行速度 -->
+			<li Name="NutritionWaterAutoRecover" AddV="2"/>           	<!-- 饮气效率 -->
+		</Properties>
+	</Modifier>
+	<Modifier Name="lm_7_7" Type="Normal">
+		<DisplayName>lm_7_7</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="MaxAge" AddV="1000000"/>                            <!-- 年龄 8000000-->
+			<li Name="NpcLingMaxValue" AddP="10"/>                     	<!-- 灵气最大值 -->
+			<li Name="NpcFight_FabaoPowerAddP" AddP="10"/>             	<!-- 法宝威力-->
+			<li Name="NpcFight_FabaoLingRecoverAddP" AddP="10"/>       	<!-- 法宝灵气恢复 -->
+			<li Name="NpcFight_FabaoMaxLingAddP" AddP="10"/>           	<!-- 法宝灵气 -->
+			<li Name="NpcFight_ShieldConversionRateAddP" AddV="10"/>  	<!-- 法宝护盾 -->
+			<li Name="NpcFight_SpellPowerAddP" AddP="10"/>              <!-- 术法伤害 -->
+			<li Name="NpcFight_SpellLingCostAddP" AddP="1"/>            <!-- 术法灵气消耗 -->
+			<li Name="ToleranceTMin" AddV="-150"/>                      <!-- 最低极限温度 -->
+			<li Name="ComfyTMin" AddV="-70"/>							<!-- 最低舒适温度 -->
+			<li Name="ToleranceTMax" AddV="600"/>                       <!-- 最高极限温度 -->
+			<li Name="ComfyTMax" AddV="+300"/>							<!-- 最高舒适温度 -->
+			<li Name="FabaoMake_SuccessRateAddV" AddV="1"/>				<!-- 法宝炼制成功率 -->
+			<li Name="FabaoMake_LingInheritRateAddV" AddV="1"/>			<!-- 法宝炼制品阶 -->
+			<li Name="FabaoMake_QualityAddV" AddV="1"/>					<!-- 法宝炼制品质 -->
+			<li Name="FabaoMake_TwelveRateChance" AddV="0.1"/>			<!-- 神器炼制-->
+			<li Name="DanMake_Speed" AddV="1"/>							<!-- 炼丹速度-->
+			<li Name="DanMake_SuccessRate" AddV="1"/>					<!-- 炼丹速度-->
+			<li Name="NutritionToJingYuanK" AddV="1"/>					<!-- 获得精元率-->
+			<li Name="WorldMapFlySpeedAddP" AddV="10"/>                 <!-- 历练飞行速度 -->
+			<li Name="NutritionWaterAutoRecover" AddV="2"/>           	<!-- 饮气效率 -->
+		</Properties>
+	</Modifier>
+	<Modifier Name="lm_7_8" Type="Normal">
+		<DisplayName>lm_7_8</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="MaxAge" AddV="1000000"/>                            <!-- 年龄 9000000-->
+			<li Name="NpcLingMaxValue" AddP="10"/>                     	<!-- 灵气最大值 -->
+			<li Name="NpcFight_FabaoPowerAddP" AddP="10"/>             	<!-- 法宝威力-->
+			<li Name="NpcFight_FabaoLingRecoverAddP" AddP="10"/>       	<!-- 法宝灵气恢复 -->
+			<li Name="NpcFight_FabaoMaxLingAddP" AddP="10"/>           	<!-- 法宝灵气 -->
+			<li Name="NpcFight_ShieldConversionRateAddP" AddV="10"/>  	<!-- 法宝护盾 -->
+			<li Name="NpcFight_SpellPowerAddP" AddP="10"/>              <!-- 术法伤害 -->
+			<li Name="NpcFight_SpellLingCostAddP" AddP="1"/>            <!-- 术法灵气消耗 -->
+			<li Name="ToleranceTMin" AddV="-150"/>                      <!-- 最低极限温度 -->
+			<li Name="ComfyTMin" AddV="-70"/>							<!-- 最低舒适温度 -->
+			<li Name="ToleranceTMax" AddV="600"/>                       <!-- 最高极限温度 -->
+			<li Name="ComfyTMax" AddV="+300"/>							<!-- 最高舒适温度 -->
+			<li Name="FabaoMake_SuccessRateAddV" AddV="1"/>				<!-- 法宝炼制成功率 -->
+			<li Name="FabaoMake_LingInheritRateAddV" AddV="1"/>			<!-- 法宝炼制品阶 -->
+			<li Name="FabaoMake_QualityAddV" AddV="1"/>					<!-- 法宝炼制品质 -->
+			<li Name="FabaoMake_TwelveRateChance" AddV="0.1"/>			<!-- 神器炼制-->
+			<li Name="DanMake_Speed" AddV="1"/>							<!-- 炼丹速度-->
+			<li Name="DanMake_SuccessRate" AddV="1"/>					<!-- 炼丹速度-->
+			<li Name="NutritionToJingYuanK" AddV="1"/>					<!-- 获得精元率-->
+			<li Name="WorldMapFlySpeedAddP" AddV="10"/>                 <!-- 历练飞行速度 -->
+			<li Name="NutritionWaterAutoRecover" AddV="2"/>           	<!-- 饮气效率 -->
+		</Properties>
+	</Modifier>
+	<Modifier Name="lm_7_9" Type="Normal">
+		<DisplayName>lm_7_9</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="MaxAge" AddV="1000000"/>                            <!-- 年龄 10000000-->
+			<li Name="NpcLingMaxValue" AddP="10"/>                     	<!-- 灵气最大值 -->
+			<li Name="NpcFight_FabaoPowerAddP" AddP="10"/>             	<!-- 法宝威力-->
+			<li Name="NpcFight_FabaoLingRecoverAddP" AddP="10"/>       	<!-- 法宝灵气恢复 -->
+			<li Name="NpcFight_FabaoMaxLingAddP" AddP="10"/>           	<!-- 法宝灵气 -->
+			<li Name="NpcFight_ShieldConversionRateAddP" AddV="10"/>  	<!-- 法宝护盾 -->
+			<li Name="NpcFight_SpellPowerAddP" AddP="10"/>              <!-- 术法伤害 -->
+			<li Name="NpcFight_SpellLingCostAddP" AddP="1"/>            <!-- 术法灵气消耗 -->
+			<li Name="ToleranceTMin" AddV="-150"/>                      <!-- 最低极限温度 -->
+			<li Name="ComfyTMin" AddV="-70"/>							<!-- 最低舒适温度 -->
+			<li Name="ToleranceTMax" AddV="600"/>                       <!-- 最高极限温度 -->
+			<li Name="ComfyTMax" AddV="+300"/>							<!-- 最高舒适温度 -->
+			<li Name="FabaoMake_SuccessRateAddV" AddV="1"/>				<!-- 法宝炼制成功率 -->
+			<li Name="FabaoMake_LingInheritRateAddV" AddV="1"/>			<!-- 法宝炼制品阶 -->
+			<li Name="FabaoMake_QualityAddV" AddV="1"/>					<!-- 法宝炼制品质 -->
+			<li Name="FabaoMake_TwelveRateChance" AddV="0.1"/>			<!-- 神器炼制-->
+			<li Name="DanMake_Speed" AddV="1"/>							<!-- 炼丹速度-->
+			<li Name="DanMake_SuccessRate" AddV="1"/>					<!-- 炼丹速度-->
+			<li Name="NutritionToJingYuanK" AddV="1"/>					<!-- 获得精元率-->
+			<li Name="WorldMapFlySpeedAddP" AddV="10"/>                 <!-- 历练飞行速度 -->
+			<li Name="NutritionWaterAutoRecover" AddV="2"/>           	<!-- 饮气效率 -->
+		</Properties>
+	</Modifier>
+	<Modifier Name="lm_8_1" Type="Normal">
+		<DisplayName>lm_8_1</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="NpcLingMaxValue" AddP="10"/>                     	<!-- 灵气最大值 -->
+			<li Name="NpcFight_FabaoPowerAddP" AddP="10"/>             	<!-- 法宝威力-->
+			<li Name="NpcFight_FabaoLingRecoverAddP" AddP="10"/>       	<!-- 法宝灵气恢复 -->
+			<li Name="NpcFight_FabaoMaxLingAddP" AddP="10"/>           	<!-- 法宝灵气 -->
+			<li Name="NpcFight_ShieldConversionRateAddP" AddV="10"/>  	<!-- 法宝护盾 -->
+			<li Name="NpcFight_SpellPowerAddP" AddP="10"/>              <!-- 术法伤害 -->
+			<li Name="NpcFight_SpellLingCostAddP" AddP="1"/>            <!-- 术法灵气消耗 -->
+			<li Name="ToleranceTMin" AddV="-150"/>                      <!-- 最低极限温度 -->
+			<li Name="ComfyTMin" AddV="-70"/>							<!-- 最低舒适温度 -->
+			<li Name="ToleranceTMax" AddV="600"/>                       <!-- 最高极限温度 -->
+			<li Name="ComfyTMax" AddV="+300"/>							<!-- 最高舒适温度 -->
+			<li Name="FabaoMake_SuccessRateAddV" AddV="1"/>				<!-- 法宝炼制成功率 -->
+			<li Name="FabaoMake_LingInheritRateAddV" AddV="1"/>			<!-- 法宝炼制品阶 -->
+			<li Name="FabaoMake_QualityAddV" AddV="1"/>					<!-- 法宝炼制品质 -->
+			<li Name="FabaoMake_TwelveRateChance" AddV="0.1"/>			<!-- 神器炼制-->
+			<li Name="DanMake_Speed" AddV="1"/>							<!-- 炼丹速度-->
+			<li Name="DanMake_SuccessRate" AddV="1"/>					<!-- 炼丹速度-->
+			<li Name="NutritionToJingYuanK" AddV="1"/>					<!-- 获得精元率-->
+			<li Name="WorldMapFlySpeedAddP" AddV="10"/>                 <!-- 历练飞行速度 -->
+			<li Name="NutritionWaterAutoRecover" AddV="2"/>           	<!-- 饮气效率 -->
+		</Properties>
+	</Modifier>
+
+
+</List></ModifierDefs>
